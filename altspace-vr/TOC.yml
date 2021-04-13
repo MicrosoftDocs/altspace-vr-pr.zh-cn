@@ -1,0 +1,169 @@
+- name: 欢迎使用 AltspaceVR
+  href: index.yml
+- name: 探索 AltspaceVR
+  href: journey.md
+- name: 入门
+  expanded: true
+  items:
+    - name: 系统要求
+      href: getting-started/system-requirements.md
+    - name: Windows Mixed Reality 安装
+      href: getting-started/wmr-installation.md
+    - name: Oculus Quest/Quest 2 安装
+      href: getting-started/oculus-installation.md
+    - name: 帐户创建
+      items:
+        - name: 注册帐户
+          href: getting-started/registration.md
+        - name: 链接 Microsoft 帐户
+          href: getting-started/linking-microsoft-account.md
+    - name: 输入控件
+      items:
+        - name: Windows Mixed Reality 控件
+          href: getting-started/wmr-controls.md
+        - name: Oculus Quest/Quest 2 控件
+          href: getting-started/oculus-controls.md
+        - name: 键盘快捷方式
+          href: getting-started/keyboard-shortcuts.md
+        - name: 在 2D PC 模式下使用鼠标/键盘控制头像
+          href: getting-started/avatar-controls.md
+        - name: 使用游戏板控件
+          href: getting-started/gamepad-controls.md
+- name: 发现内容和用户
+  items:
+    - name: 探索游戏屏幕
+      href: community/exploring-title-screen.md
+    - name: 订阅我们的新闻稿
+      href: community/newsletter-subscriptions.md
+    - name: 社区参与
+      items:
+        - name: 社区助手计划
+          href: community/community-helper-program.md
+        - name: 社区助手指南
+          href: community/community-helper-guide.md
+- name: 创建和主持活动
+  items:
+    - name: 基本活动
+      items:
+        - name: 设置活动
+          href: tutorials/creating-an-event.md
+        - name: 活动、世界、群组和 AltspaceVR 中的角色
+          href: getting-started/roles.md
+        - name: 主要活动要求
+          href: tutorials/main-events.md
+        - name: 使用群组功能
+          href: tutorials/group-features.md
+        - name: 恢复已删除的活动
+          href: tutorials/recovering-deleted-events.md
+    - name: 高级活动
+      items:
+        - name: 使用 FrontRow 设置受众规模
+          href: faqs/scaling-audiences.md
+        - name: Web 投影仪
+          href: tutorials/web-projector-streaming.md
+        - name: 多媒体控制台
+          href: tutorials/multimedia-console.md
+        - name: Interactables Spawner
+          href: tutorials/interactable-spawner.md
+        - name: 传送器
+          href: tutorials/teleporting.md
+    - name: 主持工具
+      items:
+        - name: 概述
+          href: tutorials/host-tools-overview.md
+        - name: FrontRow 活动
+          href: tutorials/host-tools-for-events.md
+- name: 控件和自定义
+  items:
+    - name: 抢先访问
+      href: world-building/early-access.md
+    - name: 世界测试版计划
+      items:
+        - name: 基本世界构建
+          items:
+            - name: 创建内容
+              href: community/creating-content.md
+            - name: 世界编辑器入门
+              href: world-building/world-editor-getting-started.md
+            - name: 改善性能
+              href: world-building/improving-performance.md
+            - name: 管理世界
+              href: world-building/managing-worlds.md
+            - name: 添加欢迎消息
+              href: world-building/adding-welcome-messages.md
+            - name: 添加重生点
+              href: world-building/adding-custom-spawn-points.md
+            - name: 备份世界
+              href: world-building/backing-up-worlds.md
+            - name: 与好友一起管理世界
+              href: world-building/granting-roles.md
+            - name: 向好友赋予能力
+              href: world-building/adding-user-abilities.md
+        - name: 高级世界构建
+          items:
+            - name: 世界构建工具包（Unity 上传程序）
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: 使用混合现实扩展
+              href: world-building/using-mixed-reality-extensions.md
+            - name: 上传工具包
+              href: world-building/uploading-custom-kits.md
+            - name: 导入 glTF 模型
+              href: world-building/importing-models.md
+            - name: 上传天空盒
+              href: world-building/uploading-custom-skyboxes.md
+        - name: 常见问题解答
+          items:
+            - name: 世界构建入门
+              href: world-building/world-building-getting-started.md
+            - name: 获取有关世界构建的帮助
+              href: world-building/getting-help.md
+- name: 规则和标准
+  items:
+    - name: 服务条款
+      href: community/terms-of-service.md
+    - name: 社区标准
+      href: community/community-standards.md
+- name: 疑难解答和支持
+  items:
+    - name: 常见问题
+      items:
+        - name: 音频
+          items:
+            - name: 我的 VR 耳机有内置麦克风吗？
+              href: faqs/vr-headset-mic.md
+            - name: 有一键通按钮吗？
+              href: faqs/push-to-talk.md
+            - name: 我的音频不稳定
+              href: faqs/choppy-audio.md
+            - name: 其他用户听不见我说话
+              href: faqs/other-users-cant-hear-me.md
+        - name: 帐户和头像
+          items:
+            - name: 名称标记如何发挥作用？
+              href: faqs/nametags.md
+            - name: 如何更改帐户信息？
+              href: faqs/updating-email-address.md
+        - name: AltspaceVR 应用程序
+          items:
+            - name: 如何查找 AltspaceVR 应用版本？
+              href: faqs/app-version.md
+            - name: 如何上传客户端日志？
+              href: faqs/uploading-client-logs.md
+            - name: 无法启动 AltspaceVR
+              href: faqs/unable-to-launch.md
+        - name: 健康和安全
+          items:
+            - name: AltspaceVR 会导致头晕吗？
+              href: faqs/motion-sickness.md
+        - name: 事件
+          items:
+            - name: 什么是 FrontRow 活动？
+              href: faqs/front-row-events.md
+- name: 联系我们
+  items:
+    - name: 获取帮助
+      href: community/open-support-ticket.md
+    - name: 功能请求
+      href: community/feature-requests.md
+    - name: 提交滥用报告
+      href: community/filing-abuse-reports.md

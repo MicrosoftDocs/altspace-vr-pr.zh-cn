@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: 欢迎使用 AltspaceVR！
+summary: 使用 AltspaceVR 探索不断扩大的 VR 活动世界。
+brand: windows
+metadata:
+  title: 欢迎使用 AltspaceVR！
+  description: 使用 AltspaceVR 探索不断扩大的 VR 活动世界。
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: 入门
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: 发现内容和用户
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: 创建活动
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: 构建世界
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: 抢先访问
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: 疑难解答
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: 入门
+  summary: 使用 AltspaceVR 主持活动、构建虚拟世界，并与世界各地的远程用户和社区互动。
+  items:
+    - title: 设置和安装
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: 注册帐户
+        - url: getting-started/linking-microsoft-account.md
+          text: 链接 Microsoft 帐户
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality 安装
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality 控件
+        - url: getting-started/oculus-installation.md
+          text: Oculus Quest 安装
+        - url: getting-started/oculus-controls.md
+          text: Oculus Quest 安装
+    - title: 创建和主持活动
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: 创建活动
+        - url: getting-started/roles.md
+          text: 活动、世界和群组中的角色
+        - url: tutorials/main-events.md
+          text: 活动要求
+        - url: faqs/scaling-audiences.md
+          text: 设置受众规模
+        - url: tutorials/multimedia-console.md
+          text: 使用多媒体控制台
+        - url: tutorials/host-tools-overview.md
+          text: 主持人工具概述
+    - title: 世界构建
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: 探索世界编辑器
+        - url: world-building/managing-worlds.md
+          text: 管理世界
+        - url: world-building/adding-custom-spawn-points.md
+          text: 添加重生点
+        - url: world-building/adding-user-abilities.md
+          text: 向用户赋予能力
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: 世界构建工具包
+        - url: world-building/using-mixed-reality-extensions.md
+          text: 使用混合现实扩展
+additionalContent:
+  sections:
+    - title: 其他资源
+      summary: 需要帮助或支持？
+      items:
+        - title: 社区
+          links:
+            - text: 订阅我们的新闻稿
+              url: community/newsletter-subscriptions.md
+            - text: 社区助手计划
+              url: community/community-helper-program.md
+            - text: 社区助手指南
+              url: community/community-helper-guide.md
+        - title: 疑难解答和支持
+          links:
+            - text: 音频问题
+              url: faqs/vr-headset-mic.md
+            - text: 帐户和头像
+              url: faqs/nametags.md
+            - text: AltspaceVR 应用程序
+              url: faqs/app-version.md
+            - text: 健康和安全
+              url: faqs/motion-sickness.md
+            - text: 事件
+              url: faqs/front-row-events.md
+        - title: 联系我们
+          links:
+            - text: 开具支持票证
+              url: community/open-support-ticket.md
+            - text: 功能请求
+              url: community/feature-requests.md
+            - text: 提交滥用报告
+              url: community/filing-abuse-reports.md
