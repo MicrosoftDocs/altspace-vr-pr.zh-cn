@@ -4,12 +4,12 @@ description: 了解如何使用全球构建工具包，通过 Unity 场景模板
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 工具包
-ms.openlocfilehash: cf4660f46d93ca5c5f23de3f567ff04b12519617
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211729"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923074"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>引入世界建筑工具包
 
@@ -24,8 +24,8 @@ ms.locfileid: "107211729"
 
 1. 加入 [官方 AltspaceVR Discord](https://discordapp.com/invite/altspacevr) 并访问 #world 构建渠道-朋友不让朋友单独构建。
 2. 阅读我们的 [世界构建入门指南](world-building-getting-started.md) 以了解基础知识
-3. [安装 Unity 中心](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 并安装 **unity 2019.4.2 f1**。 除非完全匹配此版本，否则上载不起作用。 如果你没有帐户并选择 " **个人** "，你将需要一个免费的 Unity 帐户，因为这样做有乐趣！ 在安装过程中，请确保选中 " **Android 生成** " 选项并禁用自动更新。
-4. [下载最新 Unity 上载者](https://aka.ms/AsvrCommunityUploader)
+3. [安装 Unity 中心](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) 并安装 **unity 2020.3.9**。 除非完全匹配此版本，否则上载不起作用。 如果你没有帐户并选择 " **个人** "，你将需要一个免费的 Unity 帐户，因为这样做有乐趣！ 在安装过程中，请确保选中 " **Android 生成** " 选项并禁用自动更新。
+4. [下载最新 Unity 上载者](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. 在我们的网站上[创建模板](https://account.altvr.com/space_templates/new)。 将其命名为 **模板 Hello World**。
 6. [创建一个世界](https://account.altvr.com/worlds/my) ，并将其命名为 **Hello World**。 选择 " **Hello World 模板** " 作为模板。
 
@@ -35,7 +35,7 @@ ms.locfileid: "107211729"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. 打开 Unity 中心并创建新的 Unity 2019.4.2 f1 项目。
+1. 打开 Unity 中心并创建新的 Unity 2020.3.9 项目。
 2. 打开项目后，通过双击下载的文件（ (它是 Unity 包) 导入上载程序。 现在应会看到一个名为 " **AltspaceVR**" 的新选项卡。 需要为每个要与 Altspace 一起使用的 Unity 项目导入包
 3. 打开 **菜单 > AltspaceVR > 生成设置**
 4. 用你的 Altspace 帐户凭据登录

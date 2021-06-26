@@ -4,12 +4,12 @@ description: 了解如何使用 web 投影仪从指定的浏览器将内容流�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: web 投影仪，流，浏览器
-ms.openlocfilehash: 4f89757a572ae3d77a7b11f068760268a4089ddd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2c5cb6ef917b7e799b8da3f1a769d77258866992
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211930"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112922994"
 ---
 # <a name="using-the-web-projector-to-stream-a-browser"></a>使用 Web 投影仪流式传输浏览器
 
@@ -20,6 +20,7 @@ AltspaceVR Web 投影仪是一种强大的媒体共享解决方案，可让你�
 1. 必须使用 PC 或 Mac 流式传输浏览器。
 2. Microsoft Edge 浏览器当前支持所需的浏览器扩展。  (我们正在努力展开此列表。 ) 
 3. 虽然你可以从 Mac 计算机进行流式处理，但 Web 投影仪还没有在 AltspaceVR Mac 客户端中提供。
+4. 如果已将所有设置正确 (使用同一帐户登录到浏览器扩展/AltspaceVR，并在 AltspaceVR 中使用 Web 投影仪进行连接/广播) 并且仍显示为绿色屏幕，WebProjector 需打开 TCP 端口443，UDP 端口范围20000-20400。
 
 > [!NOTE]
 > 此功能主要用于流式传输所选的浏览器选项卡。 如果尝试改为流式传输桌面应用程序，Web 投影仪会流式传输所有计算机音频 (包括 AltspaceVR) ，这可能会导致回显/反馈。 你需要静音 AltspaceVR 以防止此情况发生。 或者，还可以使用单独的设备在从电脑进行流式处理时运行 AltspaceVR。
@@ -41,7 +42,7 @@ AltspaceVR Web 投影仪是一种强大的媒体共享解决方案，可让你�
 1. 在 Edge 浏览器中打开一个选项卡，然后导航到想要共享的媒体。
 2. 设置窗口以便共享。  (注意：整个浏览器窗口将在世界上投影) 
 3. 找到新安装的扩展 (，它在浏览器) 中显示为 URL 栏附近的 AltspaceVR 图标。 选择 AltspaceVR。 系统将提示你登录到帐户。  ( * 注意：请务必登录到用于设置 Web 投影仪的同一帐户。 ) 
-4. 登录后，应会看到 "扩展" 屏幕提供了 " **开始流式传输** " 选项。 选择该文件夹。
+4. 登录后，应会看到 "扩展" 屏幕提供了 " **开始流式传输** " 选项。 请选择它。
 
 ## <a name="projecting-your-browser-in-world"></a>在世界上投影浏览器
 
