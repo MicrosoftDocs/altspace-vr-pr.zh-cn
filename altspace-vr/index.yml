@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 入门
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: 发现内容和用户
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: 设置和安装
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: 注册帐户
-        - url: getting-started/linking-microsoft-account.md
-          text: 链接 Microsoft 帐户
+        - url: getting-started/creating-and-linking-accounts.md
+          text: 创建和链接帐户
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality 安装
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus Quest 安装
         - url: getting-started/oculus-controls.md
-          text: Oculus Quest 安装
+          text: Oculus Quest 控制
     - title: 创建和主持活动
       imageSrc: images/icon-events.png
       links:
