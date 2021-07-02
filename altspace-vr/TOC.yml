@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus Quest/Quest 2 安装
       href: getting-started/oculus-installation.md
-    - name: 帐户创建
-      items:
-        - name: 注册帐户
-          href: getting-started/registration.md
-        - name: 链接 Microsoft 帐户
-          href: getting-started/linking-microsoft-account.md
+    - name: 创建和链接帐户
+      href: getting-started/creating-and-linking-accounts.md
     - name: 输入控件
       items:
         - name: Windows Mixed Reality 控件
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: 传送器
           href: tutorials/teleporting.md
+        - name: 录制和实时流式传输
+          href: tutorials/recording-and-live-streaming.md
     - name: 主持工具
       items:
         - name: 概述
@@ -103,6 +101,10 @@
           items:
             - name: 世界构建工具包（Unity 上传程序）
               href: world-building/world-building-toolkit-getting-started.md
+            - name: 将内容更新到最新 Unity 版本
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: 移动性能优化指南
+              href: world-building/unity-mobile-performance-guide.md
             - name: 使用混合现实扩展
               href: world-building/using-mixed-reality-extensions.md
             - name: 上传工具包
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: 如何更改帐户信息？
               href: faqs/updating-email-address.md
+            - name: 如何取消链接并重新链接帐户？
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR 应用程序
           items:
             - name: 如何查找 AltspaceVR 应用版本？
