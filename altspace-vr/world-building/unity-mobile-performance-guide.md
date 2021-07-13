@@ -4,12 +4,12 @@ description: 了解如何使用各种 Unity 属性，使你的世界在移动设
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 世界编辑器，性能，oculus，请求，unity，纹理，lightmaps，统计信息，探查器，绘图调用，altspacevr，上载器
-ms.openlocfilehash: 9d6afba6fff85adfaa2ba290916f25c84c5377cd
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
+ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961199"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113634288"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR Mobile 性能指南
 
@@ -23,11 +23,11 @@ ms.locfileid: "112961199"
 * **使用移动质量着色** 器 (即 "移动/漫射" 等 ) ，避免使用 Unity 标准着色器/.Pbr/反射探测器/光源探测器，因为它们的操作很大，并且探测器将添加绘图调用。
 * 屏幕上的 **三角小于 100k**
 * **封闭剔除** 可帮助减少屏幕多边形，不过，使用 "诊断" 面板时，有一个提前的成本来启用封闭的精选，以便使用诊断面板度量对 Altspace 中的帧速率的影响。
-* 对于场景中的所有 **纹理** ，使用 **"适用于 Android 的替代"** ，并将其设置为 **RGB () 压缩的 ASTC 6x6 块格式**。  将 Android 生成设置压缩为默认 (在：文件/生成设置/Android/纹理压缩： "不重写" ) 中，使 Lightmaps 不会获得 ASTC 压缩。  通过执行上述操作，并通过跨对象共享材料，我们尝试将场景的 unity 包保留为约 **10-20 MB，适用于 Android**。
+* 对于场景中的所有 **纹理** ，使用 **"适用于 Android 的替代"** ，并将其设置为 **RGB () 压缩的 ASTC 6x6 块格式**。  使 Android Build 设置压缩 (在： File/Build 设置/Android/Texture 压缩： "不重写" ) ，使 Lightmaps 不会获得 ASTC 压缩。  通过执行上述操作，并通过跨对象共享材料，我们尝试将场景的 unity 包保留为约 **10-20 MB，适用于 Android**。
 
 一般目标是在设备上跨设备获得可接受的帧数–在 Oculus 中，理想情况下，场景会在60-72 填充场景时从所有 vantage 点以 72 FPS 运行
 
-可在 AltspaceVR 中的任何设备上，使用 " **设置"/"支持"/"显示诊断面板/FPS**) " 下的 "AltspaceVR 应用 (中找到的任何设备来度量帧速率。
+使用 **设置/Support/Show 诊断面板/FPS**) 下的 AltspaceVR 应用 (中找到的任何设备，可在 AltspaceVR 中测量以帧速率。
 
 标准 Unity 工具的一个断开，可帮助您更好地优化您的场景：
 
@@ -81,6 +81,8 @@ ms.locfileid: "112961199"
 另外，作为基准，以下是用于屏幕护盖效果环境的一些设置：
 
 ![Unity 中的照明窗口](images/world-building-lightmaps.png)
+
+注意：如果使用这些设置，可以将 Lightmapper 设置为 "GPU Lightmapper"，并将 Lightmap 大小设置为 "2048"，以获得更快的预览烘焙，然后备份到 CPU，4k 用于最终的制作。
 
 ## <a name="texture-compressionfile-size"></a>**纹理压缩/文件大小**
 
