@@ -4,12 +4,12 @@ description: 随时了解最新的常见问题和 AltspaceVR 中的全球构建�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: help
-ms.openlocfilehash: 6f55d418b9b7536ffe7874c31ba2dd2b5ade7008
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9206bc604149520d3adc3604aab9a5d38340ccf88fdc00927edc62d10d671966
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211732"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126738"
 ---
 # <a name="world-building-help"></a>全球构建帮助
 

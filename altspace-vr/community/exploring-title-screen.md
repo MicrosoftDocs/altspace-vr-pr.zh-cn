@@ -4,12 +4,12 @@ description: 了解如何首次导航 AltspaceVR 标题屏幕的所有功能和�
 ms.date: 03/19/2021
 ms.topic: article
 keywords: 标题屏幕，功能，教程，登录，帐户，输入代码，目标
-ms.openlocfilehash: 2c19002712fd645ce4b2fcb344c90d52520494be
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: d304f46528ea41296ba7be00457212dc92629d5e1489e4d2dc656622f2a584e3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212093"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125180"
 ---
 # <a name="exploring-the-title-screen"></a>浏览标题屏幕
 

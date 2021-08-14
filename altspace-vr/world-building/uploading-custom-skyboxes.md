@@ -4,12 +4,12 @@ description: 获取有关在 AltspaceVR 体验中上载和排查自定义 skybox
 ms.date: 03/11/2021
 ms.topic: article
 keywords: skyboxes，故障排除
-ms.openlocfilehash: 02d5bc762dc36d4195100e8155d6250789e833f7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 912df5a4c87b7a5817824c6ee75ec8707439636b83b4d46996bbc4129ee6e9de
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212018"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126775"
 ---
 # <a name="uploading-custom-skyboxes"></a>上传自定义 Skyboxes
 
@@ -34,7 +34,7 @@ Skybox 是一种为世界创建 **背景** 的方式，使体验更具沉浸。 
 
 4. 输入您的世界并打开 "世界" 编辑器。 在 "Skyboxes" 下，选择新的 Skybox。 几秒钟后，天空会按原义发生变化。 世界上的其他人也会看到天空发生变化。 若要切换回来，请选择同一列表中的 **默认** skybox。 
 
-## <a name="troubleshooting"></a>疑难解答
+## <a name="troubleshooting"></a>故障排除
 
 **天空中有接缝或直线：- (。** 这是我们即将解决的 bug
 

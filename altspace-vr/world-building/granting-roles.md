@@ -4,12 +4,12 @@ description: 了解角色和能力系统，并获取在 AltspaceVR 世界中提�
 ms.date: 04/14/2021
 ms.topic: article
 keywords: 角色
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923186"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127108"
 ---
 # <a name="granting-world-roles"></a>授予全局角色
 
@@ -39,7 +39,7 @@ pilot,megaphone_only
 * **主机** 功能，如可以在阶段，扩音器
 * **Terraformer** -可以使用世界编辑器 ([事件、世界、组和 AltspaceVR 中的角色](../getting-started/roles.md) 的详细信息) 
 
-## <a name="troubleshooting"></a>疑难解答
+## <a name="troubleshooting"></a>故障排除
 
 **能否删除角色？**
 是，编辑你的世界，单击你想要删除的角色下方的 "**删除**"，然后单击 "**更新**"

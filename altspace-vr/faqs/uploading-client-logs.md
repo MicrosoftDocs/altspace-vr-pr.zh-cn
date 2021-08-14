@@ -4,12 +4,12 @@ description: 了解可用的客户端日志字段，以及如何在遇到 Altspa
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 客户端日志
-ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a9e937c99a69139cd2b91372ef7b36180c55574f6b34d99f59a2a099b92c4081
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923164"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121202"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>如何实现上传我的客户端日志？
 
@@ -19,18 +19,18 @@ AltspaceVR 客户端应用程序会保留使用 AltspaceVR 时发生的诊断数
 
 若要在 AltspaceVR 中上传客户端日志，请导航到设置 **菜单，然后选择****左侧导航栏中** 的"支持"。 此处提供了多个用于上传日志的选项，如以下屏幕截图所示。
 
-![打开支持面板并突出显示日志字段的"设置"菜单](images/help-altvr-uploadlogs.png)
+![设置打开支持面板并突出显示日志字段的菜单](images/help-altvr-uploadlogs.png)
 
 ## <a name="fields"></a>字段
 
 **"出什么问题了？"**
 描述发生的情况 - 例如，如果发现 bug，请描述预期发生的情况与实际发生的) 。 按"上传"时，此信息将随日志一起发送。
 
-**"上传日志"** 此按钮将上传当前会话中的日志。 如果在此会话中发现问题， (例如，如果尚未关闭 AltspaceVR 客户端) 并要报告它。
+**"Upload日志"** 此按钮将上传当前会话中的日志。 如果在此会话中发现问题， (例如，如果尚未关闭 AltspaceVR 客户端) 并要报告它。
 
-**"上传最后一个日志"** 此按钮将上传上一会话的日志。
+**"Upload日志"** 此按钮将上传上一会话的日志。
 
-**"上传上次崩溃日志"** 此按钮将上传你遇到的最新崩溃中的更多日志内容。
+**"Upload上次崩溃日志"** 此按钮将上传你遇到的最新崩溃中的更多日志内容。
 
 ## <a name="in-client-logs"></a>在客户端日志中
 

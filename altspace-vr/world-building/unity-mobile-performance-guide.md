@@ -4,12 +4,12 @@ description: 了解如何使用各种 Unity 属性，使你的世界在移动设
 ms.date: 04/20/2021
 ms.topic: article
 keywords: 世界编辑器，性能，oculus，请求，unity，纹理，lightmaps，统计信息，探查器，绘图调用，altspacevr，上载器
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634288"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126948"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>AltspaceVR Mobile 性能指南
 

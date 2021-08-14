@@ -3,13 +3,13 @@ title: 主要事件和最大化事件的可见性
 description: 了解如何创建和配置 AltspaceVR 主事件，同时最大限度地提高其可见性。
 ms.date: 03/11/2021
 ms.topic: article
-keywords: events
-ms.openlocfilehash: 44581d900b5853d051198cd2e2fefe6bc2d04a18
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: 活动
+ms.openlocfilehash: 2df15e01be4dbf0b440574da0e6931f1f11ec26fc2ca451ad98858db624e1f1f
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212036"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126286"
 ---
 # <a name="main-events-and-maximizing-event-visibility"></a>主要事件和最大化事件的可见性
 
@@ -27,7 +27,7 @@ ms.locfileid: "107212036"
 
 ## <a name="what-is-the-all-tab-of-the-calendar"></a>日历的 "所有" 选项卡是什么？
 
-"全部" 选项卡是 AltspaceVR 中所有公共事件的总数。 它通常包含快速事件（如即席）的简单事件，并针对现实或 AltQuiz。 未作为主事件列出的公共事件仍可在 "所有" 选项卡下发现，但不会被视为符合升级条件。
+"全部" 选项卡是 AltspaceVR 中所有公共事件的总数。 它通常包含快速事件，例如全息影像的即席游戏，或 AltQuiz。 未作为主事件列出的公共事件仍可在 "所有" 选项卡下发现，但不会被视为符合升级条件。
 
 ## <a name="how-can-my-event-become-a-main-event"></a>我的事件如何成为主要事件？
 
@@ -41,7 +41,7 @@ ms.locfileid: "107212036"
 * 创建者/主机的 AltspaceVR 帐户的最小值必须为一周 (七天) 旧。
 * Creator/主机必须至少托管一个 (1) 上一个公共事件。
 * 创建者/主机必须是正常的，AltspaceVR 通过任何/所有相关方法（ (社交媒体、新闻稿、Oculus 事件等）提升其事件。
-* 如果发现某个事件是非性能的，包含不适当的内容，或者违反了我们的社区标准/服务条款，则该主机必须遵循 AltspaceVR 员工发出的任何请求/编辑来维护主事件指定。
+* 如果发现某个事件是非性能的，包含不适当的内容，或者违反了我们的 Community 标准/服务条款，则该主机必须遵循 AltspaceVR 员工发出的任何请求/编辑来维护主事件指定。
 * 源世界必须通过诊断检查：允许正常表中的任何/所有指标 (。 坏表中的度量值不是。 ) 
 
 | 诊断 | 好 (会传递)  | 好 (会传递)  | 错误的 (将失败)  |
@@ -50,19 +50,19 @@ ms.locfileid: "107212036"
 | 备件 | 0-5 | 6-10 | 11 + |
 | 移动)  (工具包 | 0-5 | 6-20 | 21 + |
 | 照片 | 0-10 | 11-20 | 21 + |
-| Teleporters | 0-10 | 11-20 | 21 + |
+| 传送器 | 0-10 | 11-20 | 21 + |
 |  (移动) 模板 | 0-10MB | 11-20 MB | 21 + MB |
 | Skybox (移动)  | 0-2MB | 3-5 MB | 6 + MB |
 | 缺少工具包 |  |  | 任意 |
-| 缺少项目 |  |  | 任意 |
-| 无效项目 |  |  | 任意 |
+| 缺少 Artifacts |  |  | 任意 |
+| 无效的 Artifacts |  |  | 任意 |
 
 > [!IMPORTANT]
 > 主机限制为每天最多列出3个主要事件，每个人员。  
 
 ## <a name="will-i-still-have-access-to-the-world-editor-if-my-event-is-listed-as-a-main-event"></a>如果我的事件作为主事件列出，是否仍有权访问世界编辑器？
 
-是的。 与特色事件不同，当您的活动添加到日历后，主事件将允许您保持全局编辑器的访问权限。 但是，我们强烈建议您对源世界做出更改，而不是您的活动。 对事件所做的更改不会重复，还会影响事件的性能和稳定性。 明智地使用您的全球编辑器--通过强大的功能，您有了很大责任。
+正确。 与特色事件不同，当您的活动添加到日历后，主事件将允许您保持全局编辑器的访问权限。 但是，我们强烈建议您对源世界做出更改，而不是您的活动。 对事件所做的更改不会重复，还会影响事件的性能和稳定性。 明智地使用您的全球编辑器--通过强大的功能，您有了很大责任。
 
 ## <a name="you-used-to-have-featured-events-can-i-still-request-to-be-featured"></a>你使用的是 "有特色的事件"。 我是否仍然可以请求功能？
 

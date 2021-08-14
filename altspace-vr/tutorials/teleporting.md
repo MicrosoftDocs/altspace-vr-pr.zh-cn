@@ -4,12 +4,12 @@ description: 了解如何在 AltspaceVR 中使用 teleporter 从一个事件或�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: teleporter
-ms.openlocfilehash: afc199e958824bb5f0a9ff6d74865cbcd3f16868
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79c5b09e1643a70939ba1e967a948ac6c80c2b615bce9eef598d0e07b7722ea3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212055"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126173"
 ---
 # <a name="using-the-teleporter"></a>使用 teleporter
 
@@ -45,7 +45,7 @@ ms.locfileid: "107212055"
 
 如果要使用自定义世界 (的前一行来创建会议、峰会或更大的事件，例如，基础世界、Unity 上载程序空间模板 Re-Import 世界) 需要在基础世界中设置 Teleporter，而不是在实际事件中设置。 请确保将 Teleporter 设置为到达正确的事件 (必须来自你的基础世界) 的 "最新列表"，然后在事件中 Re-Import 世界，使 Teleporters 显示在所有前行事件空间中。
 
-## <a name="faqs"></a>常见问题解答
+## <a name="faqs"></a>常见问题
 
 **错误： ' 对不起，我们喜欢，但我们只是**
 

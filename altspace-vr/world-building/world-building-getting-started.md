@@ -4,12 +4,12 @@ description: 获取有关如何创建和共享 AltspaceVR 世界的分步说明�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 世界，共享
-ms.openlocfilehash: 56b3f942c7288e4dd10a096205a412f796704c78
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e8f95adc0e8c14007313132cd2b0dba89516dd06d98adf59bfd62a00dd3dadee
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212012"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125765"
 ---
 # <a name="creating-your-first-altspacevr-world"></a>创建第一个 AltspaceVR 世界
 
@@ -32,7 +32,7 @@ ms.locfileid: "107212012"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
 
-恭喜！ 你已创建了第一个 Altspace 世界，你自己的多玩家社交吧！ 利用世界编辑重头戏，从包含可放置和操作的对象的套件开始。
+祝贺你！ 你已创建了第一个 Altspace 世界，你自己的多玩家社交吧！ 利用世界编辑重头戏，从包含可放置和操作的对象的套件开始。
 
 ## <a name="sharing"></a>共享
 

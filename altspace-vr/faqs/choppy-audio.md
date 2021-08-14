@@ -1,17 +1,17 @@
 ---
-title: 我的音频不连贯
+title: 我的音频不稳定
 description: 了解如何诊断和修复 AltspaceVR 事件中的不连贯音频。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常见问题
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211896"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128204"
 ---
-# <a name="my-audio-is-choppy"></a>我的音频不连贯
+# <a name="my-audio-is-choppy"></a>我的音频不稳定
 
 某些用户注意到，当另一个虚拟形象说话时，音频会以断断续续或普通的下拉方式出现。 其他情况下，其他用户可能会收到自己的音频通过不连贯或机器人发出的通知。
 

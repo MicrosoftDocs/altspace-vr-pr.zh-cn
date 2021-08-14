@@ -4,12 +4,12 @@ description: 了解如何使用 FrontRow 功能对 AltspaceVR 受众进行启用
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 缩放，前行
-ms.openlocfilehash: 30632564da2465b3cd54a7c080e73ad835a3a514
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b6a518a463fc373439f411d4ae75352a0343304b1fb73c8848d3bfd5fa19973
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212040"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128053"
 ---
 # <a name="scaling-your-audiences-with-frontrow-feature"></a>通过 FrontRow 功能扩展受众
 
@@ -56,7 +56,7 @@ FrontRow 为主机体验增添了额外的功能，使您可以最大程度地�
 * 重新 **分发**-将当前位于房间内的所有来宾重新分发到其他房间。  (适用于 crowding。 ) 
 * **传送** -中转到另一个房间。
 
-在 FrontRow 事件中，主机还会看到一些其他工具和功能，如 **无线** 功能。 此按钮位于 " **主机工具**" 旁边，允许主机或审查方镜像受众成员和其他参与者，使其可在所有空间中可见。 作为主机 (，你可能还想要自己进行 **无线** 工作。  (Pro 提示： [使用主机区域](https://altvr.com/holiday2020/) 自动为区域内的任何人启用无线。 ) 
+在 FrontRow 事件中，主机还会看到一些其他工具和功能，如 **无线** 功能。 此按钮位于 " **主机工具**" 旁边，允许主机或审查方镜像受众成员和其他参与者，使其可在所有空间中可见。 作为主机 (，你可能还想要自己进行 **无线** 工作。  (Pro 提示：[使用主机区域](https://altvr.com/holiday2020/)自动为区域内的任何人启用无线。 ) 
 
 有关 FrontRow Events 的详细概述，请查看 [主机工具概述](../tutorials/host-tools-for-events.md) 一文，详细了解可用于 FrontRow 事件中的主机的每个功能和函数。
 
