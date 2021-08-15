@@ -4,12 +4,12 @@ description: 了解如何识别、报告和修复与启动 AltspaceVR 环境有�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常见问题
-ms.openlocfilehash: fc49b5b7ed708e43a12616d782a397a364b2264e
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 50edddef669aca14640fd6e910c12c15864cf46a099e54bceed40494e9817de4
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211992"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127923"
 ---
 # <a name="i-cant-launch-altspacevr"></a>我无法启动 AltspaceVR
 
@@ -18,11 +18,11 @@ AltspaceVR 可能无法启动的原因有多种。 尝试执行以下步骤，�
 ## <a name="if-youre-trying-to-launch-altspacevr-for-the-first-time"></a>如果是第一次尝试启动 AltspaceVR：
 
 1. 验证你的设备是否受支持并满足 [指定的最低要求](../getting-started/system-requirements.md)。
-2. 请确保已安装最新的 [Oculus 软件](https://www.oculus.com/setup) ，并且设置-> 一般-> 未知设备设置为 "开"。 如果在2D 模式下启动，则无需安装 Oculus。
+2. 请确保已安装最新的[Oculus 软件](https://www.oculus.com/setup)，并且设置 > 常规 > 未知设备设置为 ON。 如果在2D 模式下启动，则无需安装 Oculus。
 3. 请确保你具有有效的 internet 连接。 如果尝试从网络防火墙内启动 Altspace，请打开 UDP 端口5055和5056，以及 TCP 端口80和443。 如果你在公司或教育防火墙的网络内，你可能需要联系网络管理员或 IT 部门。
 4. 另请参阅：
     * [为 Oculus 寻找安装 AltspaceVR](../getting-started/oculus-installation.md)
-    * [安装 AltspaceVR for Windows Mixed Reality](../getting-started/wmr-installation.md)
+    * [为 Windows Mixed Reality 安装 AltspaceVR](../getting-started/wmr-installation.md)
 
 ## <a name="if-altspacevr-reports-that-the-current-version-is-out-of-date"></a>如果 AltspaceVR 报告当前版本已过期：
 

@@ -1,21 +1,21 @@
 ---
-title: 是否有 "按下对话" 按钮？
-description: 了解如何在 AltspaceVR 视图中查找并识别 "按下对话" 按钮。
+title: 有一键通按钮吗？
+description: 了解如何在 AltspaceVR 视图中查找和识别"推送到对话"按钮。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ''
-ms.openlocfilehash: 7abadd15b8238b271bb2514311804c711dcc41b4
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0a25810f18b87964549495e85a5aa5b0497deba1a7c5b1e06fefa7e1ab78ba1e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211903"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128025"
 ---
-# <a name="is-there-a-push-to-talk-button"></a>是否有 "按下对话" 按钮？
+# <a name="is-there-a-push-to-talk-button"></a>有一键通按钮吗？
 
-在视图的右下角有一个麦克风按钮，可用于切换您的语音是否与其他用户共享。 或者，您可以使用键盘快捷方式 **Ctrl + Alt + T** 来切换此设置。 
+在视图的右下角，有一个麦克风按钮可用于切换语音是否正在与其他用户共享。 或者，可以使用键盘快捷方式 **Ctrl + Alt + T** 来切换此设置。 
  
-如果说话时图标闪烁，则麦克风工作正常！
+如果在说话时图标闪烁，则麦克风将正常工作！
  
 还有任何疑问或反馈？ 
 

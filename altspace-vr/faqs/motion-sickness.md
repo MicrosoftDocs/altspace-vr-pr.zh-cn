@@ -1,50 +1,50 @@
 ---
-title: AltspaceVR 会导致运动 sickness 吗？
-description: 随时了解最新的最新常见问题，以及在 VR 环境中 sickness 的解决方案。
+title: AltspaceVR 会导致头晕吗？
+description: 随时了解有关 VR 环境中运动运动的最新常见问题和解决方案。
 ms.date: 02/10/2021
 ms.topic: article
-keywords: 运动 sickness，vr，恶心
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: 运动、vr、
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212043"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128150"
 ---
-# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR 会导致运动 sickness 吗？
+# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR 会导致头晕吗？
 
-## <a name="why-do-some-people-feel-ill-in-vr"></a>为什么有些人在 VR 中感觉不正确？
+## <a name="why-do-some-people-feel-ill-in-vr"></a>为什么在 VR 中，一些患者会感到不自在？
 
-所有 VR 都会导致 vertigo 和恶心。 此问题源于眼睛之间的差异，以及你的内部耳将发射到大脑的内容。 当你的眼睛检测到你的引入，而你的耳传达你仍在进行交流时，一些人的大脑可能会通过眩晕和恶心做出反应。 对于这种现象，更易受到运动 sickness 的用户可能更敏感，而其他人可能不会遇到问题。 
+所有 VR 都会导致 vertigo 和 vertigo，这是一种流行的信念。 此问题源于眼睛看到什么与内部眼睛正在传输到你的大脑之间的差异。 当眼睛检测到运动，并且你的眼部表示你静止时，某些个体的大脑可能会因为内发的眼部和眼部而反应。 一些更容易遭受运动感染的人可能对此现象更敏感，而其他人可能没有问题。 
 
-在硬件级别上完成了几项任务，一些功能在 AltspaceVR 的软件中，它在 VR 中大大减少或完全消除了恶心-引入运动。
+在硬件级别完成几项操作，以及 AltspaceVR 软件中的一些操作会严重减少或完全消除 VR 中的不活动运动。
 
-## <a name="hardware-based-nausea-reduction"></a>Hardware-Based 恶心缩减
+## <a name="hardware-based-nausea-reduction"></a>Hardware-Based减少
 
-现代型 VR 硬件，如 Oculus Rift 和 HTC Naopak，通过以消除可能导致恶心的延迟的速率呈现视频帧来减少运动 sickness。 如果软件已经过优化，AltspaceVR 为，则在 VR 中打开 head 时，不会出现延迟。 HMD 中的加速感应器是通信移动，传输速度快于人们眼就能检测到任何滞后时间。 在具有位置照相机的 HMD 模型 outfitted 上，这会进一步进一步，而不仅表示旋转移动，因此，横向 (侧) 运动。
+Oculus Rift 和默认情况下的 VR 硬件（如 Oculus Rift 和为 OCUL Vive）提供视频帧，从而可以消除可能导致阻塞的延迟，从而减少运动阻塞。 如果软件已优化（如 AltspaceVR 那样），那么在 VR 中打开头部时，不会感知到延迟。 HMD 中的加速计正在通信移动和传输遥测，其速度比人眼检测任何延迟更快。 在使用定位相机旋转的 HMD 模型上，这更进一步，不仅表示旋转运动，还代表 (侧运动) 移动。
 
-## <a name="software-based-nausea-reduction"></a>Software-Based 恶心缩减
+## <a name="software-based-nausea-reduction"></a>Software-Based减少
 
-除了硬件改进和 framerates，AltspaceVR 还实现了一些功能，可帮助用户减少和消除恶心：
+除了硬件改进和帧速率之外，AltspaceVR 还实现了多项功能来帮助用户减少和消除浪费：
 
-* **Teleporting** -从点到点即时移动不会向大脑传达运动，从而消除运动 sickness。
-* **启用** 所有硬件的管理，AltspaceVR 提供了在 VR 中的视图的 "ratcheted" 或 "逐步" 旋转的方式。 换句话说，在打开时，视图将透视约20度的旋转。 同样，这并不会对大多数人触发恶心。
-* **对齐动作** -在某些硬件上，触摸板上的向前轻扫会在不触发运动 sickness 的增量中向前移动透视。 
+* **远程传送** - 即时从点到点移动不会将运动与大脑通信，从而消除运动运动。
+* **对齐旋转** - 在所有硬件上，AltspaceVR 提供在 VR 中"单步旋转"或"单步"旋转视图的方式。 换句话说，在旋转时，视图将旋转大约 20 度。 同样，这不会在大多数人中触发。
+* **对齐运动** - 在某些硬件上，触摸板上向前轻扫会向前移动透视，增量不会触发运动运动。 
  
-## <a name="suggestions-for-eliminating-motion-sickness"></a>消除运动 Sickness 的建议
+## <a name="suggestions-for-eliminating-motion-sickness"></a>有关消除运动不活动的建议
 
-**仍**
+**静止**
 
-不要使用控制器进行太多移动，只需旋转头/或向上/向下即可在 VR 中查找。
+尽量不要过多地使用控制器移动，只需旋转头部/或向上/向下以在 VR 中四处查看。
 
-**不要使用鼠标/KB 或控制器**
+**请勿使用鼠标/KB 或控制器**
 
-AltspaceVR 为用户提供了使用标准游戏外围设备（如鼠标/键盘和游戏控制器）的选项，可像在视频游戏中那样移动到 VR。 这包括多方向移动、strafing 和 turbo 按钮。 建议仅在习惯于 VR 后使用这些项。 即使这样，也要慢一些。
+AltspaceVR 为用户提供使用标准游戏外围设备（如鼠标/键盘和游戏控制器）的选项，以便像在电子游戏中一样在 VR 中移动。 这包括多方向移动、strafing 和 turbo 按钮。 建议仅在熟悉 VR 后使用。 即使这样，也请慢一点。
 
-**您始终可以将**
+**始终可以排除**
 
-如果遇到恶心，请立即删除 HMD。 重新获得你的平衡，冷静你的 stomach，并在准备好返回到 VR 环境时。 请尝试记住导致成名的移动，并避免重复它。
+如果遇到"HMD"，请立即删除 HMD。 重新获得你的，保持你的信心，准备好返回到 VR 环境时。 尝试记住导致该疾病移动，避免重复它。
 
-**知道何时需要退出 VR**
+**了解何时需要退出 VR**
 
-最重要的是，知道何时需要休息时间。 您知道您的身体，当它为您提供了一些很好的迹象时，请倾听。 休息一下，看看一些气流。 浏览并重新对齐你的平衡。 再次重申后，我们相信，这一方仍将继续工作！
+最重要的是，了解何时需要中断。 你知道自己的身体，当它提供错误的强指示时，请侦听。 请休息一下，再休息一下。 四处移动并调整你的状态。 再次感觉好后，请回来，我们确信该活动仍将进行！

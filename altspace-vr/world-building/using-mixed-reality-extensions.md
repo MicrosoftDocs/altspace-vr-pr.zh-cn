@@ -4,12 +4,12 @@ description: 了解如何使用混合现实扩展并对其进行故障排除，�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: 混合现实，扩展，故障排除
-ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1439ca76eaf4e0235c6552d037e55b6151e08407871bf470b3011b6cf8cbccd5
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125351"
 ---
 # <a name="using-a-mixed-reality-extension"></a>使用混合现实扩展
 
@@ -20,9 +20,9 @@ ms.locfileid: "107211733"
 3. 进入你的世界，并打开世界编辑 **> SDK 应用的基本知识**。 将 Helmets 的 URL 粘贴到 "目标 URI" 字段中，然后选择 " **确认**"。 应显示 MRE 对象，并尝试连接到在云中运行的 MRE。 现在，你应该会看到一些 helmets，你可以单击它。
 4. 移动/旋转/缩放 MRE，就像处理任何其他世界对象一样。
 
-恭喜！ 现在正在使用 MREs--非常酷！
+祝贺你！ 现在正在使用 MREs--非常酷！
 
-## <a name="troubleshooting"></a>疑难解答
+## <a name="troubleshooting"></a>故障排除
 
 **MRE 显示了一个哭表情符号** 
     * 请验证 URL 是否正确
@@ -32,4 +32,4 @@ ms.locfileid: "107211733"
 **MRE 为滞后** 根据 MRE 的托管位置，可能会遇到某些网络延迟
 
 **为什么必须粘贴 Url？**
-将来，您可以管理和生成 MREs，就像从工具包中进行项目一样。 到现在为止，我们将继续使用 Url
+将来，您可以管理和生成 MREs，就像您 Artifacts 从工具包进行的一样。 到现在为止，我们将继续使用 Url

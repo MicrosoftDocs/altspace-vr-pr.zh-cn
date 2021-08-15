@@ -1,17 +1,17 @@
 ---
-title: Nametags 的工作原理是什么？
+title: 名称标记如何发挥作用？
 description: 了解不同类型的 nametags 及其在 AltspaceVR 中的工作方式。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常见问题
-ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2d635e04c4baec8577f7f5670c5a7f41714b8d3df3b530d26708b38287df7b84
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211904"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128133"
 ---
-# <a name="how-do-nametags-work"></a>Nametags 的工作原理是什么？
+# <a name="how-do-nametags-work"></a>名称标记如何发挥作用？
 
 如果你想要查看其他用户的 Nametag，请选择其头像，并显示你的光标，并显示在上方。
 

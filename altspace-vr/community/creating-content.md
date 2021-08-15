@@ -4,12 +4,12 @@ description: 了解如何创建 AltspaceVR 内容，如何使用混合现实扩�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 混合现实扩展，社区，世界建筑，资源
-ms.openlocfilehash: f77c1ad1dfc5a6e95882f153152ad6dcbefcab8b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 83888f0a6a4d81ca4573641daa28d0e5343039ea073337c2b18d8e7610d2a14e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107211908"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125094"
 ---
 # <a name="creating-altspacevr-content"></a>创建 AltspaceVR 内容
 
