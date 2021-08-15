@@ -35,7 +35,7 @@ MRE SDK 是新的 SDK，用于使用 Node.JS 生成 AltspaceVR 扩展。 开始�
 
 ## <a name="world-editor"></a>世界编辑器
 
-在 AltspaceVR 中，可以在主空间中使用我们的内置世界编辑器。 这是开始修改空间的最简单方法。 当你位于主空间时，选择右下角的"世界编辑器"按钮。 请参阅我们的[入门 World Building 页](../world-building/world-building-getting-started.md)。 使用"世界编辑器"，可以将 3d 对象、远程端口和扩展 (MRES) ，并更改世界天空框。
+在 AltspaceVR 中，可以在主空间中使用我们的内置世界编辑器。 这是开始修改空间的最简单方法。 当你位于主空间时，选择右下角的"世界编辑器"按钮。 请参阅我们的[入门 World Building 页](../world-building/world-building-getting-started.md)。 使用世界编辑器，可以将 3d 对象、远程端口和扩展 (MRES) ，并更改世界天空框。
 
 如果加入 [早期访问计划](../world-building/early-access.md)，可以在 [AltspaceVR My Worlds](https://account.altvr.com/users/sign_in)页上创建更多世界。
 
