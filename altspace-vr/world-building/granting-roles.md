@@ -39,7 +39,7 @@ pilot,megaphone_only
 * **主机** 功能，如可以在阶段，扩音器
 * **Terraformer** -可以使用世界编辑器 ([事件、世界、组和 AltspaceVR 中的角色](../getting-started/roles.md) 的详细信息) 
 
-## <a name="troubleshooting"></a>故障排除
+## <a name="troubleshooting"></a>疑难解答
 
 **能否删除角色？**
 是，编辑你的世界，单击你想要删除的角色下方的 "**删除**"，然后单击 "**更新**"
