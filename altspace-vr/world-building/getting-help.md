@@ -15,6 +15,6 @@ ms.locfileid: "119125368"
 
 朋友不会让朋友单独构建世界。 下面是获取帮助的一些方法：
 
-* 搜索此 [知识库并](../index.yml) 浏览世界 [生成部分](world-editor-getting-started.md)，特别是 。 创建帐户 (单击右上方的"登录"，然后单击"注册") 并按照此部分在发布新文章时发出警报。
-* 加入[世界生成器的"不一样"。](https://discordapp.com/invite/altspacevr) 大多数世界制造商和一些 Altspace 工程师会在此处挂起。 尝试在频道中#help问题。
+* 搜索此 [知识库并](../index.yml) 浏览世界 [生成部分](world-editor-getting-started.md)，特别是 。 创建帐户 (单击右上方的"登录"，然后单击"注册") 并按照此部分在发布新文章时收到警报。
+* 加入[世界生成器的"不一样"。](https://discordapp.com/invite/altspacevr) 大多数世界制造商和一些 Altspace 工程师会在此处挂起。 尝试在频道中#help提问。
 * 加入[MRE SDK 的一个。](https://discord.gg/xyBcQec) 对于使用编程软件开发工具包的更高级世界构建者 (SDK) Unity 工具。 

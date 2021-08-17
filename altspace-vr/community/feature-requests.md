@@ -13,7 +13,7 @@ ms.locfileid: "119124999"
 ---
 # <a name="submitting-feature-requests"></a>提交功能请求
 
-太棒了！ 感谢你帮助我们，我们期待收到你的反馈。
+很好！ 感谢你的反馈，我们期待收到你的反馈。
 
 > [!div class="nextstepaction"] 
-> [提交功能请求](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
+> [文件 a 功能请求](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)

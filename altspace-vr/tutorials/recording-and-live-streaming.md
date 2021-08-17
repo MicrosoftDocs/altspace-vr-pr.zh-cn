@@ -1,9 +1,9 @@
 ---
 title: 录制和实时流式传输
-description: 了解如何从电脑录制 AltspaceVR 活动并实时流式传输，以便推广和与用户共享。
+description: 了解如何记录和实时流式传输您的 PC 中的 AltspaceVR 事件，以便升级和与用户共享。
 ms.date: 04/26/2021
 ms.topic: article
-keywords: 流式处理， 录制， 视频， 音频， youtube， obs
+keywords: 流式处理、录制、视频、音频、youtube、obs
 ms.openlocfilehash: 95a742cb2bfe5c277e698175bd9f657fcac5923d181c3eeb6905004d25f81aa6
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -13,94 +13,94 @@ ms.locfileid: "119126101"
 ---
 # <a name="recording-and-live-streaming"></a>录制和实时流式传输
 
-录制和实时流式传输 AltspaceVR 体验以向全球其他人展示是推广活动、AltspaceVR 和 VR 的一种很好的方法！ 查看以下内容，了解如何开始操作：
+记录和实时流式处理你的 AltspaceVR 体验，以便在全球范围内展示你的活动、AltspaceVR 和 VR，这是一个很好的方法。 请查看以下内容了解如何入门：
 
 本文将指导如何进行以下操作：
 
-* [在电脑上录制 2D 模式下的 AltspaceVR](#recording-altspacevr-in-2d-mode-on-pc)
-* [在电脑上以 2D 模式实时流式传输至 AltspaceVR 中的 YouTube](#live-streaming-to-youtube-in-altspacevr-2d-mode-on-pc)
+* [在电脑上的2D 模式下录制 AltspaceVR](#recording-altspacevr-in-2d-mode-on-pc)
+* [计算机上2D 模式下的 AltspaceVR 中的 YouTube 实时流](#live-streaming-to-youtube-in-altspacevr-2d-mode-on-pc)
 
-## <a name="recording-altspacevr-in-2d-mode-on-pc"></a>在电脑上以 2D 模式录制 AltspaceVR
+## <a name="recording-altspacevr-in-2d-mode-on-pc"></a>在电脑上的2D 模式下录制 AltspaceVR
 
 ### <a name="the-short-version"></a>短版本
 
-1. 已安装 AltspaceVR 和 OBS。 在 2D 模式下启动 AltspaceVR，启动 OBS，将 OBS 设置为录制 AltspaceVR 并记录离开！
+1. 已安装 AltspaceVR 和 OBS。 在2D 模式下启动 AltspaceVR，启动 OBS，将 OBS 设置为录制 AltspaceVR 并录制！
 
-### <a name="the-slightly-longer-version"></a>稍微长一点的版本
+### <a name="the-slightly-longer-version"></a>略长版本
 
 1. 访问 [https://obsproject.com/](https://obsproject.com/)
-2. 选择 **Windows** 以下载 OBS。 本文使用 **OBS v22.0.2**
+2. 选择 **Windows** 下载 OBS。 此文章使用 **OBS v 22.0.2**
 3. 安装 OBS
 
-### <a name="have-altspacevr-running-in-2d-mode-before-you-run-obs"></a>在运行 OBS 之前，在 2D 模式下运行 AltspaceVR
+### <a name="have-altspacevr-running-in-2d-mode-before-you-run-obs"></a>在运行 OBS 之前，让 AltspaceVR 在2D 模式下运行
 
-1. 从网站下载并安装 AltspaceVR：altvr.com/get [](https://altvr.com/getaltspacevr)
-2. 请确保在 2D 模式下启动 AltspaceVR，方法是从电脑拔下 HMD 的 USB 电缆，或者如果你有一个 Rift：Ctrl+Alt+Del、服务、Oculus VR 运行时服务，请右键单击，停止。 
-    * 这会禁用 Oculus，在 2D 模式下启动 AltspaceVR，重复这些步骤并使用"启动"重新获取 VR 模式。
+1. 从网站下载并安装 AltspaceVR： [altvr.com/get](https://altvr.com/getaltspacevr)
+2. 请确保在2D 模式下启动 AltspaceVR，方法是从 PC 中拔下 HMD 的 USB 电缆，或者如果具有 Rift： Ctrl + Alt + Del、Services、Oculus VR 运行时服务，请右键单击，然后单击 "停止"。 
+    * 这将禁用 Oculus 并启动2D 模式下的 AltspaceVR，重复这些步骤并使用 Start 获取 VR 模式。
 
-现在，Alt-Tab OBS：
+现在，Alt-Tab 到 OBS：
 
-1. 在"源"下，选择 **"+ > Game Capture">"新建"**
-2. 将文本编辑为"AltspaceVR Capture"，勾选 **"使源可见**"，然后选择"确定"
-3. 双击"源 **"下的 AltspaceVR** 捕获
-4. 更改 **模式** 以 **捕获特定窗口**
-5. 窗口：[AltspaceVR.exe]：AltspaceVR
-6. 窗口匹配优先级：匹配标题，否则查找同一可执行文件的窗口
-7. 向下滚动到"捕获光标：untick"
+1. 在 "源" 下，选择 " **+ > 游戏" 捕获 > 新建**
+2. 编辑文本到 "AltspaceVR 捕获"，勾选标记 **使源可见**，然后选择 "确定"
+3. 双击 "源" 下的 " **AltspaceVR 捕获** "
+4. 用于 **捕获特定窗口** 的更改 **模式**
+5. 窗口： [AltspaceVR.exe]： AltspaceVR
+6. 窗口匹配优先级：匹配标题，否则查找相同可执行文件的窗口
+7. 向下滚动到捕获 Cursor： untick
 8. 选择“确定”
 
-这应该会使 AltspaceVR 显示在 OBS 中。 现在，若要在 OBS 中设置以下属性，请转到文件 **> 设置：**
+这会使 AltspaceVR 显示在 OBS 中。 现在，若要在 OBS 中设置以下属性，请参阅 **设置的文件 >**：
 
 |选项卡|设置|
 |---|---|
 | **常规** | 保留默认值 |
 | **流** | 保留默认值 |
-| 输出模式 | 切换到"高级" |
-| “流式处理”选项卡 | 音频轨道 1 <br> 编码器：x264 <br> 重新缩放输出：未标点 <br> 速率控制：CBR <br> 比特率：6000 (6000 表示 30 fps，9000 表示 60 fps)  <br> 关键帧间隔 = 2 <br> CPU 使用率预设 = 非常快 |
-| "录制"选项卡 | 类型：标准 <br> 录制路径：D：/video (浏览到要保存到视频文件的位置)  <br> 录制格式：mp4 (如果在录制时发生一些崩溃，请尝试在此处使用 flv 而不是 mp4，如果崩溃，视频仍可与 flv)  <br> 音频轨道 1 <br> 编码器：使用流编码器 |
-| "音频"选项卡 | 音频比特率：160 (所有轨迹)  |
-| "重播缓冲区"选项卡 | 保留默认值 |
-| **音频：** | 采样率：48khz <br> 频道：立体声 <br> 桌面音频设备：默认值 <br> 桌面音频设备 2：禁用 <br> 麦克风/Aux 音频设备：默认值 |
-| **视频** | 基本 (画布) 分辨率：1920x1080 <br> 输出 (缩放) 分辨率：1920x1080 <br> 纵向缩减筛选器：双 (化缩放，16 个样本)  <br> 常见 FPS 值：30 |
+| 输出模式 | 切换到高级 |
+| “流式处理”选项卡 | 音频轨道1 <br> 编码器： x264 <br> 重新缩放输出：未选中 <br> 速率控制：CBR <br> 比特率： 6000 (6000 为 30 fps 或 9000 60 fps)  <br> 关键帧间隔 = 2 <br> CPU 使用预设 = veryfast |
+| 录制选项卡 | 类型：标准 <br> 录制路径： D：/视频 (浏览到想要保存视频文件的位置)  <br> 录制格式：工作方式 (如果你在录制时出现故障，请在此处尝试) 使用 flv 而不是 " <br> 音频轨道1 <br> 编码器：使用流编码器 |
+| 音频选项卡 | 音频比特率： 160 (所有磁道)  |
+| 重播缓冲区选项卡 | 保留默认值 |
+| **音频：** | 采样速率：48khz <br> 频道：立体声 <br> 桌面音频设备：默认 <br> 桌面音频设备2：禁用 <br> Mic/Aux 音频设备：默认值 |
+| **视频** | 基本 (画布) 解决方法：1920x1080 <br>  (扩展) 分辨率的输出：1920x1080 <br> 缩减筛选器：双立方 (Sharpened 缩放，16个样本)  <br> 常见 FPS 值：30 |
 | **热键** | 保留默认值 |
 | **高级** | 进程优先级：正常 | <br>
 
-<br>现在，请确保选择"应用 **"，** 然后选择" **确定** "以保存所有 OBS 设置。 
+<br>好了，现在请确保选择 " **应用**"，然后单击 **"确定"** 保存所有 OBS 设置。 
 
-1. Alt-Tab AltspaceVR，进入正确的空间/世界/事件，并排好相机 (即，你的头像) 我们即将录制视频！
-2. Alt-Tab OBS，准备就绪后，单击"开始 **录制"。**
+1. Alt-Tab AltspaceVR，进入正确的空间/世界/事件，并将您的相机 (，这就是您的头像) 我们要录制视频！
+2. Alt-Tab OBS，当你准备就绪时，单击 " **开始录制**"。
 
-你将在 OBS 的右下角看到 REC： 将开始计数，点为红色，这意味着要录制！
+你会看到 OBS 的右下方，它会开始计数，点为红色，这表示你正在录制！
 
-对此进行测试录制： 
-1. 在 AltspaceVR 中打开/关闭/滚动菜单以发出 UI 声音
-2. 确保未静音（例如"Sibilance，Sibilance"）或让其他用户以正常音量与用户交谈。
-3. 在这样做时，查看桌面音频和麦克风/Aux 级别，看其是否正常工作。
+使用此内容进行测试记录： 
+1. 在 AltspaceVR 中打开/关闭/滚动菜单以创建 UI 声音
+2. 请确保你是 unmuted，如 "Sibilance，Sibilance"，或让其他用户在普通卷上与你联系。
+3. 查看桌面音频和麦克风/Aux 级别，以查看其是否正常工作。
 
-录制时，我们通常会将麦克风/Aux 静音。 继续选择麦克风/Aux 的扬声器图标，它将以 X 为红色。
+录制时通常会将麦克风/Aux 设为静音。 继续，为 Mic/Aux 选择扬声器图标，该图标将变为红色，其中包含 X。
 
-* 很难匹配音频和其他用户的音频，因此录制事件时麦克风最好静音。
-* 音频的另一个问题就是 OBS 的设置方式。 它会从计算机捕获所有音频，因此，如果你正在电脑上观看 YouTube，它会录制该音频或一些用户通知。
-* 若要仅录制来自 AltspaceVR 的音频，请转到"音量"Mixer (右键单击 Windows) 右下角的"说话人"图标，将系统声音、浏览器等静音，但不要将 OBS 或 AltspaceVR 静音。
+* 您的音频和其他用户的音频非常困难，因此，在录制事件时，Mic 最佳。
+* 音频的另一个问题是 OBS 的设置方式。 它从您的计算机中捕获所有音频，因此，如果您在您的 PC 上监视 YouTube，它将记录该音频或 Discord 的通知。
+* 若要仅记录来自 AltspaceVR 的音频，请进入 "卷 Mixer" (右键单击 Windows ") " 和 "静音" 的扬声器图标，然后单击 "OBS" 或 "AltspaceVR"。
 
 > [!IMPORTANT]
-> 请不要忘记在录制后重新启用Mixer设置。
+> 请不要忘记在记录后重新打开这些卷 Mixer 的设置。
 
-现在，导航回 OBS 并选择 **"从** 文件停止录制>**显示录制内容"。** 这会打开包含 OBS 视频文件的文件夹，然后双击测试视频。
+现在，请导航回 OBS，并选择 "从文件中 **停止录制** **>显示录制**"。 这会打开包含 OBS 视频文件的文件夹，然后双击测试视频。
 
-有时，录制声音很大，因此请降低桌面音频的滑块，然后进行另一个录制以进行测试。
+有时录音会很大，因此，请降低桌面音频的滑块，然后再进行一次记录测试。
 
 
-## <a name="live-streaming-to-youtube-in-altspacevr-2d-mode-on-pc"></a>在电脑上以 AltspaceVR 2D 模式实时流式传输到 YouTube
+## <a name="live-streaming-to-youtube-in-altspacevr-2d-mode-on-pc"></a>计算机上 AltspaceVR 2D 模式下的 YouTube 的实时流式处理
 
 ### <a name="the-short-version"></a>短版本
 
-已安装 AltspaceVR 和 OBS。 在 2D 模式下启动 AltspaceVR，启动 OBS，在 YouTube 上实时流式传输或创建"新建直播活动"，使用 YouTube Stream 密钥设置 OBS，在 OBS 中开始流式传输，在 YouTube 上开始流式传输，然后开始直播活动！
+已安装 AltspaceVR 和 OBS。 在2D 模式下启动 AltspaceVR，启动 OBS，在 YouTube 上启动，或在 YouTube 上创建 "新建实时事件"，使用你的 YouTube 流密钥设置 OBS，开始流式传输到 YouTube，开始在 YouTube 上流式传输！
 
-### <a name="the-slightly-longer-version"></a>稍微长一点的版本
+### <a name="the-slightly-longer-version"></a>略长版本
 
 1. 访问 [https://obsproject.com/](https://obsproject.com/)
-2. 选择 **Windows** 使用 OBS v22.0.2 (来下载 OBS) 
+2. 选择 **Windows** 下载 OBS (此文章使用 OBS v 22.0.2) 
 3. 安装 OBS
 
 在运行 OBS 之前，让 AltspaceVR 在2D 模式下运行
@@ -183,17 +183,17 @@ ms.locfileid: "119126101"
 * Stream
 * 将复制的流密钥粘贴到 "流密钥" 字段
 * 应用，然后 "确定"
-* 选择 "开始流式处理"
-* 回到 YouTube，你会看到 "预览" 窗口显示了你的流，现在可以在右上角看到。
-* 选择 "上线"
-* 你现在已经开始了！
-* 在 "浏览器" 选项卡上，打开 "查看监视页" 链接，确保视频看起来良好。 请记住，你不会听到音频，因为当你将音频静音 Windows Volume Mixer 时，会从浏览器中关闭音频。 请在手机上检查音频，或邀请朋友检查音频。
+* 选择"开始流式处理"
+* 返回到 YouTube，你将看到"预览"窗口显示你的流，并且"上一个实时"现在在右上方亮起。
+* 选择"上一个活动"
+* 你现在是实时的！
+* 转到浏览器选项卡，并打开"在观看页上查看"链接，确保视频看起来不错。 请记住，你不会听到音频，因为当你在"音量"窗口中将其静音时，你已从浏览器Windows音频Mixer。 检查手机上的音频，或要求朋友检查音频。
 * 看起来不错！
-* Alt-Tab 返回到 AltspaceVR，以便将相机 (，即你的头像) 你的活动。
-* 完成实时流后，请返回到 YouTube 的 "Live Control 会议室" 页面
-* 选择 "停止流式处理"
-* 对话框随即打开，询问你是否要停止流式传输实时事件，确定
-* 请切换到 OBS，并选择 "停止流"。
-* 恭喜，现已成为 AltspaceVR 流！
+* Alt-Tab AltspaceVR 移动相机 (，即头像) 在活动中四处移动。
+* 完成实时流后，返回到 YouTube"实时控制房间"页
+* 选择"停止流式处理"
+* 对话框随即打开，询问是否要停止流式传输直播活动，确定
+* 转到"OBS"，然后选择"停止流式处理"。
+* 恭喜，你现在是 AltspaceVR 流式处理器！
 
-对于奖分，请在社交媒体上与世界分享你的视频，并确保标记为 @AltspaceVR ： ) 
+对于奖励点，在社交媒体上与世界共享视频，并确保标记我们 @AltspaceVR ：) 

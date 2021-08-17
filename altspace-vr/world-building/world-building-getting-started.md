@@ -20,7 +20,7 @@ ms.locfileid: "119125765"
 ## <a name="creating"></a>Creating
 
 1. 注册 (，如果尚未注册 AltspaceVR) ，请完成 AltspaceVR 应用中的教程。
-2. 打开菜单并导航到"我的 **>世界"：**
+2. 打开菜单并导航到"**我的>世界"：**
 
 ![我的世界在 AltspaceVR 菜单中打开](images/world-building-img-01.png)
 
@@ -36,7 +36,7 @@ ms.locfileid: "119125765"
 
 ## <a name="sharing"></a>共享
 
-1. 转到"Campfire" (或想要与共享的人在何处) 
+1. 转到"Campfire" (，或者要与共享的人位于任何) 
 2. 打开菜单，再次找到你的世界，然后选择"信息 **"：**
 
 ![我的世界在 AltspaceVR 菜单中打开，并突出显示了信息按钮](images/world-building-img-03.png)
@@ -50,7 +50,7 @@ ms.locfileid: "119125765"
 
 ![在 VR 世界运行的新方](images/world-building-img-06.png)
 
-5. 让这个活动开始吧！ 你的好友将在你构建时看到你的"世界"变化，因此请以你的创意来让世界变大。
+5. 让这个活动开始吧！ 你的好友将在你构建时看到你的"世界"变化，因此请以你的创意来令人困惑。
 
 你应该在数分钟内完成世界性构建;但是，如果遇到问题，请查看以下资源：
 * [在哪里可以获取有关世界构建的帮助？](getting-help.md)

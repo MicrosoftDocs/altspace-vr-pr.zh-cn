@@ -15,12 +15,12 @@ ms.locfileid: "119125508"
 
 世界编辑器包含工具包Artifacts可生成到你的世界。 例如 [，"Campfire Kit"](https://account.altvr.com/kits/993516233267609824) 具有多种类型的树-每种类型的树都是一个"项目"。 若要创建自己的工具包，必须创建 Unity AssetBundles 并上传包含每个项目的 Unity 预制件的 .zip 文件，并在我们的网站上注册每个项目。 幸运的是，社区驱动的 Unity 上传程序可自动执行大部分工作流。 上传后，可以从自己的工具包在"世界"中生成对象，其他用户可以自动看到它们。 稍后，可以与好友共享工具包，甚至可以通过特别推荐Community整个工具包。
 
-## <a name="prerequisites"></a>必备条件
+## <a name="prerequisites"></a>先决条件
 
 1. [安装 Unity Hub 和 Unity](world-building-toolkit-getting-started.md)
 2. 下载最新版本的 Unity [上传程序](https://altvr.com/download-latest-unity-uploader/)
 
-## <a name="setup"></a>安装 
+## <a name="setup"></a>设置 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-1-Setup/player]
 
@@ -39,7 +39,7 @@ ms.locfileid: "119125508"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-2/player]
 
-1. 在 **"工具包文件夹** 名称"中填写"工具包 ID"作为前缀和主题 (例如，1137484494681408069_pirates) 填写"工具包资产名称"，将工具包 ID作为前缀。 所有资产都需要具有此前缀。
+1. 在"**工具包文件夹** 名称"中填写"工具包 ID"作为前缀和主题 (例如，1137484494681408069_pirates) 填写"工具包资产名称"，将工具包ID 作为前缀。 所有资产都需要具有此前缀。
 
 ![Unity 中具有工具包文件夹名称的 AltspaceVR 接口](images/custom-kits-img-03.png)
 
@@ -47,7 +47,7 @@ ms.locfileid: "119125508"
 * 将源预制 () "层次结构"选项卡
 * 选择要包括在一个集合中的产品，例如五种类型的桶
 * 更新 **工具包资产名称**
-* 选择 **"将 GameObject (") 工具包预制件**
+* 选择 **"将 GameObject () 工具包预制件"**
 * 验证"Assets/Prefabs"文件夹中是否创建了新的预制项和屏幕截图
 
 ![Unity 中的 AltspaceVR 接口，已选择项目](images/custom-kits-img-04.png)
@@ -87,5 +87,5 @@ ms.locfileid: "119125508"
 
 **项目未以正确的方式出现** 旋转 **模型和****碰撞体** 并更新预制件。 轮换父级不会执行任何忽略的。 可以使用"旋转 **替代"** 字段轻松完成此操作。
 
-**这些Artifacts与 SDK 的 **CreateFromLibrary 函数一起** 使用吗？**
+**这些Artifacts SDK 的 **CreateFromLibrary** 函数一起使用吗？**
 是

@@ -22,7 +22,7 @@ ms.locfileid: "119125351"
 
 祝贺你！ 现在正在使用 MREs--非常酷！
 
-## <a name="troubleshooting"></a>故障排除
+## <a name="troubleshooting"></a>疑难解答
 
 **MRE 显示了一个哭表情符号** 
     * 请验证 URL 是否正确

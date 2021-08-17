@@ -20,7 +20,7 @@ ms.locfileid: "119125388"
 
 ![示例世界](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>安装
+## <a name="setup"></a>设置
 
 1. 加入 [官方 AltspaceVR Discord](https://discordapp.com/invite/altspacevr) 并访问 #world 构建渠道-朋友不让朋友单独构建。
 2. 阅读我们的 [世界构建入门指南](world-building-getting-started.md) 以了解基础知识
@@ -92,7 +92,7 @@ ms.locfileid: "119125388"
     * 尝试新的项目。
     * 确保 Altspace 帐户处于良好地位。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 * [Unity 学习](https://unity3d.com/learn)
 * [Unity 论坛](https://forum.unity.com)

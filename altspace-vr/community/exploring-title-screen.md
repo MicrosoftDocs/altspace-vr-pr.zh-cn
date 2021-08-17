@@ -1,9 +1,9 @@
 ---
 title: 浏览标题屏幕
-description: 了解如何首次导航 AltspaceVR 标题屏幕的所有功能和功能，或返回用户。
+description: 了解如何首次或返回用户时导航 AltspaceVR 标题屏幕的所有特性和功能。
 ms.date: 03/19/2021
 ms.topic: article
-keywords: 标题屏幕，功能，教程，登录，帐户，输入代码，目标
+keywords: 标题屏幕， 功能， 教程， 登录名， 帐户， 入口代码， 目标
 ms.openlocfilehash: d304f46528ea41296ba7be00457212dc92629d5e1489e4d2dc656622f2a584e3
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -13,57 +13,57 @@ ms.locfileid: "119125180"
 ---
 # <a name="exploring-the-title-screen"></a>浏览标题屏幕
 
-AltspaceVR 标题屏幕是浏览平台的主要起点。 从这里，你可以执行诸如登录、浏览主菜单、使用代码输入事件、自定义头像等内容等操作。 下面概述了标题屏幕及其功能。 
+AltspaceVR 标题屏幕是浏览平台的主要起点。 在这里，你可以执行登录、浏览主菜单、使用代码输入事件、自定义头像等操作。 下面是标题屏幕及其功能的概述。 
 
-## <a name="tutorial-features--login"></a>& 登录的教程功能 
+## <a name="tutorial-features--login"></a>登录&教程功能 
 
-如果是首次启动 AltspaceVR，则会开始作为来宾用户的旅程。 来宾用户是一种临时标识，可让用户在登录到 AltspaceVR 帐户之前浏览自己的节奏。 对于想要在跳转到操作之前练习基本操作的新的 VR 用户，请尝试学习本 [教程](../tutorials/host-tools-overview.md)。 如果你觉得直接跳转到 AltspaceVR，可以跳过本教程并登录。 
+如果是第一次启动 AltspaceVR，你将以来宾用户开始旅程。 来宾用户是授予的临时标识，允许你在登录到 AltspaceVR 帐户之前以自己的步调浏览。 对于想要在跳转到操作之前练习基础知识的新 VR 用户，请尝试我们的 [教程](../tutorials/host-tools-overview.md)。 如果习惯直接跳转到 AltspaceVR，可以跳过本教程并登录。 
 
-![电脑上2D 模式下的教程屏幕](images/title-screen-01.png)
+![电脑上 2D 模式下的教程屏幕](images/title-screen-01.png)
 
-作为来宾，你还可以浏览主菜单并查看事件日历，但你仍无法输入事件。 帐户登录需要在标题屏幕之外导航。 若要继续，请通过选择 " **登录** " 选项登录到 AltspaceVR 帐户。 
+作为来宾，还可以浏览主菜单并查看事件日历，但无法输入事件。 需要帐户登录才能导航到标题屏幕之外。 若要继续，请通过选择"登录"选项登录到 AltspaceVR **帐户。** 
 
-![主菜单上的帐户注册弹出窗口](images/title-screen-03.png)
+![主菜单上的"帐户注册"弹出窗口](images/title-screen-03.png)
 
-如果你的 AltspaceVR 帐户已链接到你的 Microsoft 帐户，请选择 " **通过 Microsoft 登录** " 选项。 如果没有 Microsoft 链接的帐户，请选择 " **使用 AltspaceVR 登录** " 选项。 你可以在此处找到分步帐户链接说明： [链接你的 Microsoft 帐户](../getting-started/linking-microsoft-account.md)。 
+如果 AltspaceVR 帐户已链接到 Microsoft 帐户，请选择"使用 **Microsoft 登录"** 选项。 如果没有 Microsoft 链接的帐户，请选择"使用 **AltspaceVR 登录"** 选项。 可在此处找到分步帐户链接说明： [链接 Microsoft 帐户](../getting-started/linking-microsoft-account.md)。 
 
-![用于链接 microsoft 帐户的登录页](images/title-screen-02.png)
+![用于链接 Microsoft 帐户的登录页](images/title-screen-02.png)
 
 ## <a name="destinations"></a>Destinations 
 
-左侧的 "绿色 **目标** " 按钮，你可以在其中找到一些东西，如 AltspaceVR 中心、Homespace、未来的聚焦事件或最近参加的任何事件。 您还会发现您的朋友当前可能正在进行的活动。 通过 " **目标** " 面板，可以快速轻松地导航到关键位置。 
+左侧 **的绿色** "目标"按钮可找到 AltspaceVR 中心、家庭空间、即将推出的聚焦事件或最近参加的任何活动等内容。 你还将找到你的好友当前可能参与的事件。 " **目标"** 面板使导航到关键位置变得快速且简单。 
 
-![具有 enter 和 info 选项的 "目标" 页](images/title-screen-04.png)
+![包含输入和信息选项的目标页](images/title-screen-04.png)
 
-## <a name="entry-code"></a>输入代码 
+## <a name="entry-code"></a>入口代码 
 
-在 AltspaceVR 中，输入代码是允许简化事件条目的字母数字代码。 可以通过使用 VR 中 "事件" 页上的 " **共享** " 按钮来找到条目代码。 你还可以在 [altvr.com](https://altvr.com)上的 "事件" 页中的社交共享图标上方找到它。 
+在 AltspaceVR 条目代码中，是允许简化事件输入的字母数字代码。 可以使用 VR 中事件页上的"共享"按钮找到输入代码。 还可以在 上事件页的社交共享图标正上方找到[altvr.com。](https://altvr.com) 
 
-![包含输入代码和共享选项的事件页](images/title-screen-05.png)
+![包含入口代码和共享选项的事件页](images/title-screen-05.png)
 
-如果你有想要参加的事件的代码，请将其输入到标题屏幕并直接传送到你的目标。  
+如果你有要参加的活动的代码，请在"标题屏幕"中输入该代码，然后直接将代码传送至目标。  
 
-![突出显示 "输入事件代码" 面板的标题屏幕](images/title-screen-06.png)
+![标题屏幕，突出显示了"输入事件代码"面板](images/title-screen-06.png)
 
 ## <a name="other-functions"></a>其他函数 
 
-标题屏幕中的最后几个功能是 **帐户****主菜单** 并 **退出**。 当你处于事件、中心、世界或 Homespace 时，这些选项将模拟在你的放射状 HUD 菜单中找到的选项。 
+"标题"屏幕中可用的最后几个函数是 **"帐户主****菜单"和"****退出"。** 这些选项模拟在事件、中心、世界或 Homespace 中时在径向 HUD 菜单中找到的选项。 
 
-**帐户** 部分提供了与你的 AltspaceVR 帐户相关的几个选项。 在此处，你可以查看凭据，将你的 AltspaceVR 帐户连接到 Microsoft 帐户 (或适用于企业用户的 AAD) ，切换到另一个帐户，或者注销你的当前帐户。 
+" **帐户** "部分提供了与 AltspaceVR 帐户相关的多个选项。 在这里，你可以查看凭据、将 AltspaceVR 帐户连接到适用于企业用户的 Microsoft 帐户 (或 AAD) 、切换到其他帐户或注销当前帐户。 
 
-![具有其他选项的帐户页](images/title-screen-07.png)
+![包含其他选项的"帐户"页](images/title-screen-07.png)
 
-标题屏幕中的 **主菜单** 选项与您在其他地方使用放射状 HUD 访问的主菜单完全相同。 在这里，你可以浏览以下功能的选项卡：
+标题 **屏幕** 中的"主菜单"选项与在其他地方使用径向 HUD 访问的主菜单完全相同。 可在此处浏览选项卡，了解以下功能：
 
-* 发现集线器
+* 发现中心
 * 浏览事件日历
 * 浏览世界
-* 管理你的朋友列表
+* 管理好友列表
 * 查看帐户详细信息
-* 访问您的设置。
+* 访问设置。
 
-![突出显示 "发现" 选项卡的主菜单辐射中心](images/title-screen-08.png)
+![主菜单径向中心，突出显示了"发现"选项卡](images/title-screen-08.png)
 
-" **退出** " 按钮用于关闭 AltspaceVR 应用程序。 通过选择此选项，你将选择完全关闭 AltspaceVR。 确认退出对话框后，应用程序会自动关闭。 
+" **退出** "按钮可用于关闭 AltspaceVR 应用。 通过选择此选项，可以选择完全关闭 AltspaceVR。 确认退出对话后，应用将自动关闭自身。 
 
-![退出带有 "取消" 和 "退出" 选项的 AltspaceVR popup](images/title-screen-09.png)
+![退出 AltspaceVR 弹出窗口，提供取消和退出选项](images/title-screen-09.png)
