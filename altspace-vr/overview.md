@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR，virtual 会议，虚拟现实会议，VR 会议，虚拟现实平台，VR 平台，沉浸式虚拟事件，沉浸式 VR 事件，虚拟现实事件，VR 事件，VR 世界大楼，沉浸式 VR 体验，，社会 VR，社会 VR 平台，VR 事件托管，社交虚拟现实，虚拟现实事件托管
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131820"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122978991"
 ---
 # <a name="what-is-altspacevr"></a>什么是 AltspaceVR
 

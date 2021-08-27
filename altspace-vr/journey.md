@@ -1,21 +1,23 @@
 ---
 title: 探索 AltspaceVR
 description: 开始在 AltspaceVR 平台上创建和托管虚拟事件，并提供特选的检查点旅程。
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace，虚拟现实，事件，世界建筑，教程
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: AltspaceVR，virtual 会议，虚拟现实会议，VR 会议，虚拟现实平台，VR 平台，沉浸式虚拟事件，沉浸式 VR 事件，虚拟现实事件，VR 事件，VR 世界大楼，沉浸式 VR 体验，，社会 VR，社会 VR 平台，VR 事件托管，社交虚拟现实，虚拟现实事件托管
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126434"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979024"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
 ![AltspaceVR 横幅图像](images/altspace-vr-banner.png)
 
-AltspaceVR 是一个用于虚拟现实的领先社交平台。 AltspaceVR 使用技术来帮助扩展用户连接，这是从规模音乐会到专业的大规模的事件。
+AltspaceVR 是用于实时混合现实体验的领先平台。 AltspaceVR 允许艺术家、创意者、品牌和企业轻松创建自己的虚拟事件。 此社交应用允许世界各地的人员通过真正的状态显示来进行实时连接和合作。 富有吸引力的头像，吸引眼睛联系人、空间音效和沉浸式虚拟环境，使人们在海洋的情况下也能与他们一起合作。 与经验、内容和社区的交集，AltspaceVR 是 live 音乐会、会议、喜剧节目、音乐节、技术讨论、团队会议、远程协作等方面的主要位置。  
 
 无论你是经验丰富的 AltspaceVR 退伍军人还是新用户，都必须具有可计数的实体资源。 我们已编译以下检查点，指导你将虚拟事件带入世界。 您可以按顺序覆盖它们，这是我们建议的方法，如果您知道要查找的内容，则可以跳过。 无论采用哪种方式，只要需要方向，都需要重新访问此旅程。
 
