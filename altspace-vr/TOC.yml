@@ -1,5 +1,7 @@
 - name: 欢迎使用 AltspaceVR
   href: index.yml
+- name: AltspaceVR 概述
+  href: overview.md
 - name: 探索 AltspaceVR
   href: journey.md
 - name: 入门
