@@ -1,15 +1,17 @@
 ---
 title: 2D PC 模式下具有鼠标/键盘的头像控件
 description: 了解如何在新的和经典控制方案之间切换，以便在 2D PC 模式下将头像与鼠标和键盘一起移动。
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: 头像、鼠标、键盘、2d、pc 模式、控件
-ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127962"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871221"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>2D PC 模式下具有鼠标/键盘的头像控件
 
@@ -25,15 +27,15 @@ ms.locfileid: "119127962"
 
 * **光标模式** 使您可以与菜单交互。 当看到视图左下角的 AltspaceVR 徽标/Menu 按钮时，您将知道您处于光标模式下：
 
-![带有菜单的光标模式](images/avatar-controls-img-01.png)
+    ![带有菜单的光标模式](images/avatar-controls-img-01.png)
 
 * 使用 "**查找" 模式**，可以在使用便携式计算机触控板时进行查找和使用。 您可以使用外观模式和键盘同时查看/移动。 如果底部左侧显示的屏幕截图如下所示，您将知道您处于外观模式：
 
-![外观模式](images/avatar-controls-img-02.png)
+    ![外观模式](images/avatar-controls-img-02.png)
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>键盘/鼠标的新 PC 控件
 
-![具有输入映射的键盘和鼠标](images/avatar-controls-img-03.png)
+<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
 
 ## <a name="classic-pc-controls"></a>经典 PC 控件 
 
@@ -60,23 +62,23 @@ ms.locfileid: "119127962"
 
 **移动**
 
-| 操作 | 键 | 备用键 |
+| 操作 | 密钥 | 备用键 |
 |---|---|---|
 | 向前移动 | W | 向上键 |
 | 向后移动 | S | 向下键 |
-| 左 Strafe | A | 不适用 |
-| Strafe right | D | 不适用 |
+| 左 Strafe | A | 空值 |
+| Strafe right | D | 空值 |
 | 向前运行 | Shift + W | Shift + 向上键 |
 | 向后运行 | Shift + S | Shift + 向下键 |
-| 左侧运行 | Shift + A | 不适用 |
-| 运行权限 | Shift + D | 不适用 |
+| 左侧运行 | Shift + A | 空值 |
+| 运行权限 | Shift + D | 空值 |
 | "舒适模式" 向左旋转 | Q | 向左键 |
 | "舒适模式" 向右旋转 | E | 向右键 |
 
 **菜单选项**
 
-| 操作 | 键 | 备用键 |
+| 操作 | 密钥 | 备用键 |
 |---|---|---|
-| 切换菜单 | Esc | 不适用 |
-| 切换应用全屏 | Alt + Enter | 不适用 |
+| 切换菜单 | Esc | 空值 |
+| 切换应用全屏 | Alt + Enter | 空值 |
 | 切换麦克风 | 空格键 | Ctrl + Alt + T |

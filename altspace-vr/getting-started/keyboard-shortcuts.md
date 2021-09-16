@@ -1,17 +1,21 @@
 ---
-title: 键盘快捷方式
+title: 键盘快捷键
 description: 使用 AltspaceVR 应用程序支持的所有可用键盘快捷方式和操作，随时保持最新状态。
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: 键盘，快捷方式
-ms.openlocfilehash: 5106f34d7cdba5ad42ca04070e66b7b77157f46554e5f3542b08ecb6e7f15030
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: b994590583fb6eea4141598febce40510ae77fb8
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127872"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871256"
 ---
-# <a name="keyboard-shortcuts"></a>键盘快捷方式
+# <a name="keyboard-shortcuts"></a>键盘快捷键
+
+<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
 
 | 密钥 | 操作 |
 |---|---|

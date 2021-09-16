@@ -4,12 +4,12 @@ description: 获取有关如何创建新的 AltspaceVR 帐户的分步说明，�
 ms.date: 06/25/2021
 ms.topic: article
 keywords: 注册，帐户，帐户创建，帐户链接，microsoft 帐户，常见问题解答，故障排除，2D 模式，VR 模式，用户名，显示，名称
-ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5606e850da21582f07bf3b123746ca53bfae1360
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127906"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871203"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>创建和链接你的 AltspaceVR 帐户
 
@@ -46,6 +46,13 @@ ms.locfileid: "119127906"
 3. 将打开一个单独的窗口，提示您选择要使用的 Microsoft 帐户。 选择一个个人 Microsoft 帐户，而不是与工作或学校帐户关联的帐户。
 4. 完成帐户链接过程后，系统会提示你填写显示名称和用户名。
 5. 选择 "注册"。
+
+## <a name="how-to-create-an-account-on-altvrcom"></a>如何在 altvr.com 上创建帐户
+
+1. 启动浏览器并导航到 " [登录](https://account.altvr.com/users/sign_in) " 页。
+2. 选择 "Microsoft 登录"。
+3. 请用个人 Microsoft 帐户登录，或者选择 "创建一个！" 创建要用于 AltspaceVR 的新的个人 Microsoft 帐户。
+4. 完成 Microsoft 帐户登录过程后，将创建你的 AltspaceVR 帐户，你将看到一条确认消息。
 
 ## <a name="linking-your-microsoft-account"></a>链接你的 Microsoft 帐户
 
@@ -119,42 +126,42 @@ ms.locfileid: "119127906"
 
 **是否已有 Microsoft 帐户？**
 
-你已有一个 Microsoft 帐户。 你是否在 Xbox 上播放我的世界、游戏、订阅 Office 365，或者是否定期使用其他任何 Microsoft 产品或服务？ 如果是这样，你可能已有 Microsoft 登录名！ 可以在此处检查电子邮件是否已绑定到现有[MSA。](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+你已有一个 Microsoft 帐户。 你是否在 Xbox 上播放我的世界、游戏、订阅 Office 365，或者是否定期使用其他任何 Microsoft 产品或服务？ 如果是这样，则可能已经有了 Microsoft 登录！ 你可以查看你的电子邮件是否已与 [现有 MSA 关联](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)。
 
-**这是否意味着我需要使用 Outlook 创建新的电子邮件地址？**
+**这是否意味着需要使用 Outlook 创建新的电子邮件地址？**
 
-不是。 可以使用当前电子邮件地址设置 Microsoft 帐户，即使该帐户未托管在 Microsoft 中。  (例如：G-Mail、Yahoo 等) 。 如果使用与经典 AltspaceVR 帐户共享同一电子邮件的 Microsoft 凭据登录，则登录后系统会提示你链接帐户。 按照提示登录到经典帐户，Altspace 和 Microsoft 帐户将进行链接。
+不是。 即使不是与 Microsoft 托管的电子邮件地址，也可以使用当前的电子邮件地址设置 Microsoft 帐户。  (Ex： G-Mail、Yahoo 等等) 。 如果你以与经典 AltspaceVR 帐户共享同一电子邮件的 Microsoft 凭据登录，则在登录后，系统将提示你链接帐户。 按照提示登录到经典帐户，你的 Altspace 和 Microsoft 帐户将会被链接。
 
-**这是否花费资金？**
+**这是否会产生费用？**
 
-不！ 创建 Microsoft 帐户是免费的。 使用 AltspaceVR 也是免费的。 请记住，你的 Microsoft 帐户已链接到其他产品和服务，因此可以使用该帐户购买 AltspaceVR 以外的内容，例如订阅 (例如 Office 365) 或 (商品，例如 我的世界 Marketplace) 。
+上场! 创建 Microsoft 帐户是免费的。 使用 AltspaceVR 也是免费的。 请记住，你的 Microsoft 帐户已链接到其他产品和服务，因此你可以使用它来购买 AltspaceVR 之外的内容，例如订阅 (例如： Office 365) 或专业商品 (例如：我的世界 Marketplace) 。
 
-**如果在链接帐户时遇到问题，如何？**
+**如果链接帐户时遇到问题，该怎么办？**
 
-如果遇到问题，请始终通过技术支持 [联系我们](https://help.altvr.com/hc/requests/new)。
+如果遇到问题，请随时[与我们联系。](https://help.altvr.com/hc/requests/new)
 
-**如果我有多个 AltspaceVR 帐户，该做什么？**
+**如果我有多个 AltspaceVR 帐户怎么办？**
 
-只能将一个 AltspsaceVR 帐户链接到 Microsoft 帐户。 需要为要连接的每个 AltspaceVR 帐户创建一个单独的 Microsoft 帐户。
+只能将一个 AltspsaceVR 帐户链接到 Microsoft 帐户。 对于要连接的每个 AltspaceVR 帐户，你将需要一个单独的 Microsoft 帐户。
 
-**如果忘记了登录详细信息，该做什么？**
+**如果忘记了登录详细信息，该怎么办？**
 
-如果在连接到 Microsoft 帐户后无法登录到 AltspaceVR，请通过技术支持 [联系我们](https://help.altvr.com/hc/requests/new)。 如果登录 Microsoft 帐户时遇到问题[](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)，请访问此处或[此处](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)，获取故障排除提示和资源的列表。
+如果在连接到 Microsoft 帐户后，登录到 AltspaceVR 时遇到问题，请[联系我们。](https://help.altvr.com/hc/requests/new) 若要登录到 Microsoft 帐户时遇到问题，请访问 [此处](https://support.microsoft.com/account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735) 或 [此处](https://support.microsoft.com/account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9) 获取疑难解答提示和资源的列表。
 
-**是否必须连接到我的 Microsoft 帐户？**
+**我是否必须连接到我的 Microsoft 帐户？**
 
-别担心，你有一些时间进行更新。 我们将逐步推出 Microsoft 帐户集成。 但是，随着时间的推移，我们正在处理中的一些主要新功能将仅适用于已将 AltspaceVR 帐户链接到其 Microsoft 帐户的个人。 这是因为这些功能与票证 (类似，例如，) 需要非常可靠的安全措施。 有关详细信息，请参阅 [我们的博客](https://altvr.com/microsoft-account-integration)。
+不用担心，你有时间进行更新。 我们会分阶段滚动我们的 Microsoft 帐户集成。 不过，随着时间的推移，我们正在处理的一些主要新功能仅适用于已将其 AltspaceVR 帐户链接到其 Microsoft 帐户的个人。 这样做的原因是这些功能 (如 ticketed 事件，例如) 需要强可靠的安全措施。 阅读我们的 [博客](https://altvr.com/microsoft-account-integration)。
 
-**我的隐私和数据呢？**
+**我的隐私和数据有什么作用？**
 
-服务条款或[隐私策略](../community/terms-of-service.md)[没有变化](https://privacy.microsoft.com/privacystatement)。 Microsoft 和 AltspaceVR 仍致力于保护你的隐私。 它们还保持承诺，以确保在数据和信息方面保持完全控制。 可在此处了解有关隐私的 Microsoft 核心[原则。](https://privacy.microsoft.com) 还可以在此处请求有关 Microsoft 关于你的 Microsoft 帐户的个人数据 [的详细信息](https://www.microsoft.com/concern/privacyrequest-msa)。 最后，如果你有有效的 AltspaceVR 帐户，可以请求数据的副本，并请求随时删除数据。
+我们的 [服务条款](../community/terms-of-service.md) 或 [隐私政策](https://privacy.microsoft.com/privacystatement)不会有任何变化。 Microsoft 和 AltspaceVR 一直致力于保护你的隐私。 它们还可以确保在您的数据和信息时保持完全控制。 你可以在 [此处](https://privacy.microsoft.com)了解有关 Microsoft 隐私原则的详细信息。 你还可以在此处请求有关 Microsoft 在 [此处](https://www.microsoft.com/concern/privacyrequest-msa)与你的 microsoft 帐户相关的个人数据的详细信息。 最后，如果你有一个有效的 AltspaceVR 帐户，你可以请求数据的副本，并请求随时删除数据。
 
 ## <a name="more-resources"></a>更多资源
 
 * [什么是 MSA](https://account.microsoft.com/account?lang=)
 * [MSA 服务条款](https://www.microsoft.com/servicesagreement/)
-* [在所有设备上Microsoft 帐户设置设备](https://account.microsoft.com/account/connect-devices)
-* [有关无法登录的帮助](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
+* [在所有设备上设置 Microsoft 帐户](https://account.microsoft.com/account/connect-devices)
+* [当你无法登录时的帮助](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
 * [如何重置 MSA 密码](https://support.microsoft.com//account-billing/how-to-reset-your-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37)
-* [确保 Microsoft 帐户的安全](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
-* [子帐户和系列帐户和控件](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)
+* [确保你的 Microsoft 帐户安全可靠](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
+* [子帐户和家庭帐户和控件](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)

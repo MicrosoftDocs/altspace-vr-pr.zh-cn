@@ -1,21 +1,23 @@
 ---
 title: Oculus Quest/Quest 2 控件和权限
 description: 了解 Oculus Quest 和 Quest 2 设备、管理权限和使用手势的基本控件。
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: oculus， oculus quest， 控件， 权限， 手势
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127855"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871137"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2 控件和权限
 
 ## <a name="basic-controls"></a>基本控件
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | 左侧 | 右侧 |
 |---|---|
@@ -29,6 +31,8 @@ ms.locfileid: "119127855"
 
 ## <a name="hand-gestures"></a>手势
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | 手势 | 输入 |
 |---|---|
 | 静态 | 默认位置 |
@@ -37,8 +41,6 @@ ms.locfileid: "119127855"
 | 拳头 | 手柄、触发器和 A/X 按钮 |
 
 ## <a name="managing-permissions"></a>管理权限
-
-<!-- Missing image -->
 
 若要从 Oculus 库按应用管理 Oculus Quest 的权限，请执行以下操作：
 
