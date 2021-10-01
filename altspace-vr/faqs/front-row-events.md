@@ -4,12 +4,12 @@ description: 了解前行事件如何让你的用户能够在 AltspaceVR 事件�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: 常见问题
-ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 86ba4e836c55648d5434de7764c09f8ef7646d2f
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128167"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310493"
 ---
 # <a name="what-are-frontrow-events"></a>什么是 FrontRow 活动？ 
 
@@ -26,3 +26,10 @@ ms.locfileid: "119128167"
 在舞台上，人才正在查看用户填充前行事件的单个实例，但他们可以看到用户在事件的所有实例上生成的表情符号。
 
 当用户选择他们的 "举手" 按钮时，事件主机可以使用我们的主机工具为此人激活无线。 此时，可以在所有实例中查看和听到受众成员，就像执行者一样。 这样，用户就可以参与显示，并可以在&会话期间与人才进行互动！
+
+## <a name="support"></a>支持
+
+AltspaceVR 团队的问题或反馈？ 
+
+> [!div class="nextstepaction"]
+> [单击此处发送支持请求](https://help.altvr.com/hc/requests/new)

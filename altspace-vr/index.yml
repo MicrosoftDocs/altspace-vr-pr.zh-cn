@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 入门
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: 发现内容和用户
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: 疑难解答
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: 入门
   summary: 使用 AltspaceVR 主持活动、构建虚拟世界，并与世界各地的远程用户和社区互动。
@@ -94,13 +94,13 @@ additionalContent:
         - title: 疑难解答和支持
           links:
             - text: 音频问题
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: 帐户和头像
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: AltspaceVR 应用程序
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: 健康和安全
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: 事件
               url: faqs/front-row-events.md
         - title: 联系我们

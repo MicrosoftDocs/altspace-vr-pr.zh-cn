@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: AltspaceVR，virtual 会议，虚拟现实会议，VR 会议，虚拟现实平台，VR 平台，沉浸式虚拟事件，沉浸式 VR 事件，虚拟现实事件，VR 事件，VR 世界大楼，沉浸式 VR 体验，，社会 VR，社会 VR 平台，VR 事件托管，社交虚拟现实，虚拟现实事件托管
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979024"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310461"
 ---
 # <a name="exploring-altspacevr"></a>探索 AltspaceVR
 
@@ -48,7 +48,7 @@ AltspaceVR 是用于实时混合现实体验的领先平台。 AltspaceVR 允许
 |  Checkpoint  |  业务成效  |
 | --- | --- |
 | [浏览标题屏幕](community/exploring-title-screen.md) | 从 "标题" 屏幕导航到 "登录"，输入事件，或自定义头像 |
-| [社交功能 & nametags](faqs/nametags.md) | 了解 nametags 和社交功能在 AltspaceVR 中的工作原理 |
+| [社交功能 & nametags](faqs/account-avatar-faq.md#how-do-nametags-work) | 了解 nametags 和社交功能在 AltspaceVR 中的工作原理 |
 
 ## <a name="4-creating--hosting-events"></a>4. 创建 & 托管事件
 
