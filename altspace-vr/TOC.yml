@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: 社区标准
       href: community/community-standards.md
-- name: 疑难解答和支持
+- name: 疑难解答和支持常见问题解答
   items:
-    - name: 常见问题
-      items:
-        - name: 音频
-          items:
-            - name: 我的 VR 耳机有内置麦克风吗？
-              href: faqs/vr-headset-mic.md
-            - name: 有一键通按钮吗？
-              href: faqs/push-to-talk.md
-            - name: 我的音频不稳定
-              href: faqs/choppy-audio.md
-            - name: 其他用户听不见我说话
-              href: faqs/other-users-cant-hear-me.md
-        - name: 帐户和头像
-          items:
-            - name: 名称标记如何发挥作用？
-              href: faqs/nametags.md
-            - name: 如何更改帐户信息？
-              href: faqs/updating-email-address.md
-            - name: 如何取消链接并重新链接帐户？
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR 应用程序
-          items:
-            - name: 如何查找 AltspaceVR 应用版本？
-              href: faqs/app-version.md
-            - name: 如何上传客户端日志？
-              href: faqs/uploading-client-logs.md
-            - name: 无法启动 AltspaceVR
-              href: faqs/unable-to-launch.md
-        - name: 健康和安全
-          items:
-            - name: AltspaceVR 会导致头晕吗？
-              href: faqs/motion-sickness.md
-        - name: 事件
-          items:
-            - name: 什么是 FrontRow 活动？
-              href: faqs/front-row-events.md
+    - name: 音频问题
+      href: faqs/audio-faq.md
+    - name: 帐户和头像
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR 应用程序
+      href: faqs/altspacevr-app-faq.md
+    - name: 健康和安全
+      href: faqs/health-safety-faq.md
+    - name: FrontRow 活动
+      href: faqs/front-row-events.md
 - name: 联系我们
   items:
     - name: 获取帮助
