@@ -1,23 +1,23 @@
 ---
 title: Oculus Quest/Quest 2 控件和权限
 description: 了解 Oculus Quest 和 Quest 2 设备、管理权限和使用手势的基本控件。
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: oculus， oculus quest， 控件， 权限， 手势
-ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: 136fb203e36dcfdde60558d21efaf18a48d19881
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871137"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446224"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Oculus Quest/Quest 2 控件和权限
 
 ## <a name="basic-controls"></a>基本控件
 
-<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
+![Oculus Quest/Quest 2 控件。](images/quest2-controls.svg)
 
 | 左侧 | 右侧 |
 |---|---|
@@ -31,7 +31,7 @@ ms.locfileid: "127871137"
 
 ## <a name="hand-gestures"></a>手势
 
-<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+![Oculus Quest/Quest 2 手势](images/quest2-hand-gesture-controls.svg)
 
 | 手势 | 输入 |
 |---|---|
