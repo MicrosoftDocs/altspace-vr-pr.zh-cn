@@ -1,15 +1,15 @@
 ---
 title: 使用组功能创建私有事件
 description: 了解如何使用我们的组事件功能创建已获得批准的来宾列表的专用的 VR 空间。
-ms.date: 03/11/2021
+ms.date: 10/24/2021
 ms.topic: article
 keywords: 组，专用事件，patreon，eventbrite，故障排除
-ms.openlocfilehash: 0599792b6dd5ea73a3f4c15b00cdee36dea5ceaab3fc646ef0f72e965e0cbad2
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126546"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298847"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>使用组功能创建私有事件
 
@@ -69,9 +69,9 @@ ms.locfileid: "119126546"
 
 ![突出显示了 "我的世界" 面板的 AltspaceVR 应用](images/group-features-img-07.png)
 
-## <a name="how-to-use-patreon-and-eventbrite-to-host-a-ticketed-vr-event"></a>如何使用 Patreon 和 Eventbrite 来托管 Ticketed VR 事件： 
+## <a name="how-to-add-an-email-list-to-a-group"></a>如何将电子邮件列表添加到组 
 
-可使用 Patreon、Eventbrite 在 Altspace 中创建 ticketed 事件。你需要创建用户的电子邮件地址列表，或从你的付款平台导出该信息。  
+如果你有一个较大的组，需要批量添加它们，则首先需要为与你的组关联的所有用户创建一个电子邮件地址列表。 请记住，如果用户正在使用 Microsoft 帐户链接进行注册，则需要使用其 Microsoft 帐户地址才能完成此步骤。
 
 ### <a name="creating-a-list"></a>创建列表
 
@@ -87,7 +87,7 @@ ms.locfileid: "119126546"
 
 ### <a name="importing-a-list"></a>导入列表
 
-使用 Patreon 和 Eventbrite 这样的平台，你可以将 * .csv 文件导出 (以逗号分隔的值) ，其中包含专用的 "电子邮件" 列。您可以选择此列以供使用。完成此操作后，步骤几乎是相同的，它们是：  
+某些平台可能允许您将一个 * .csv 文件 (以逗号分隔的值) ，其中包含专用的 "电子邮件" 列。您可以选择此列以供使用。完成此操作后，步骤几乎是相同的，它们是：  
 
 1. 创建或编辑组。  
 2. 查找 " **成员电子邮件** " 字段。  
@@ -105,7 +105,7 @@ ms.locfileid: "119126546"
 
 * **名称**  –将对所有成员可见的组的名称。   
 * **描述**  –用于说明组用途的字段。 对所有成员可见。
-* **用户**  –此字段允许你列出组的组成员作为用户名或电子邮件地址，只要它是每行一个。这是一种定义组成员的方法。 **但是，对于使用外部支付平台（如 Patreon）的人员，请使用此页后面的 "电子邮件允许列表" 字段。**
+* **用户**  –此字段允许你列出组的组成员作为用户名或电子邮件地址，只要它是每行一个。这是一种定义组成员的方法。
     * 每行填写一次用户名或电子邮件。  
     * 若要在 AltspaceVR 中查找用户名，请让用户打开 "主菜单" 并转到 "Me" 部分。它是括在括号中的名称。  
     * 若要在网站上查找用户名，请让用户从 "> 配置文件" 选项中转到 "配置文件"。 可以在 "配置文件" 页的左栏中找到该文件。  
@@ -129,17 +129,17 @@ ms.locfileid: "119126546"
 > 此功能以 Beta 版本提供。 我们鼓励组在"环境选择"对话框中利用预先不存在的"世界"。
 
 * "Commons"一词始终作为后缀出现在任何组的环比世界。  
-* **成员电子邮件**  - 此字段允许通过与 AltspaceVR 帐户关联的电子邮件列出用户。 **使用此列表将替代上述"用户"列表。**  这是管理组成员身份（尤其是使用外部支付平台的组）的建议方法。  
-    * 填写此字段时，请确保 AltspaceVR 帐户关联的电子邮件已列出，否则可能会失去对组的访问权限。  
+* **成员电子邮件**  - 此字段允许通过与 AltspaceVR 帐户关联的电子邮件列出用户。 **使用此列表将替代上述"用户"列表。**  这是管理组的成员身份的建议方法。  
+    * 填写此字段时，请确保 AltspaceVR 帐户关联的电子邮件已列出，否则可能会失去对组的访问权限。 如果已将帐户与 Microsoft 帐户链接关联，则需要确保使用的电子邮件地址是 Microsoft 帐户地址。  
     * 将地址粘贴到其字段中时，请确保每行有一封电子邮件。  
     * 此列表接受没有有效 AltspaceVR 帐户的电子邮件。AltspaceVR 用户名已验证，电子邮件地址不会验证。 但是，当该电子邮件用于创建 AltspaceVR 帐户时，与其关联的用户将获得对组的访问权限。  
     * 可以从 *.csv 文件导入列表。 选择"选择文件"选项，然后选择文件。
-    * 建议使用"成员电子邮件"作为管理从 Patreon 或 Eventbrite 等支付平台创建的组的方法，因为这是一种更明确的协调成员的方式。请注意，组管理员需要通知其用户/成员，他们必须使用在支付平台上使用的同一确切电子邮件地址来创建 AltspaceVR 帐户。  
+    * 建议使用"成员电子邮件"作为管理大型组的方法，因为这是一种更明确的协调成员的方式。请注意，组管理员需要通知其用户/成员，他们必须使用在支付平台上使用的同一确切电子邮件地址来创建 AltspaceVR 帐户。  
     * 请参阅将用户导入组部分，查看有关如何获取用户列表的说明。   
 * **启用自动导入**  – 自动导入是在电子邮件"允许列表"中运行的重复过程。 它协调电子邮件现在是否具有与其关联的有效 AltspaceVR 帐户，并授予访问权限。   
     * 如果使用 csv 文件上传，建议启用它。
 * **YouTube 视频 ID**  – 允许将 YouTube 视频嵌入网站的组登陆页面。请注意，这仅适用于组网站，不会显示在 AltspaceVR 中。
-    * 必须使用视频 ID，而不是完整地址。 视频 ID 是"="后显示的字符集， (登录 YouTube) 相同。  
+    * 必须使用视频 ID，而不是完整地址。 视频 ID 是在登录 YouTube 的"=" (后) 的字符集。  
 * **Twitter 句柄**  - 将 Twitter 帐户中的最新推文嵌入到网站的组登陆页上。请注意，这仅适用于组网站，不会显示在 AltspaceVR 中。
 * **创建组**  – 页面底部的按钮。 完成上述字段后，选择此按钮以创建组。  
 
@@ -192,29 +192,5 @@ ms.locfileid: "119126546"
 
 这是一个已计划事件的组页。 为组创建的事件将在此处显示。
 
-### <a name="i-want-to-use-eventbrite-and-patreon-but-i-dont-see-where-to-get-the-email-addresses-for-my-groups"></a>我想要使用 Eventbrite 和 Patreon，但看不到在何处获取组的电子邮件地址
-
-**Patreon ** 
-
-[Patreon](https://www.patreon.com/)  是一个成员资格平台，创意者可以在其中为其内容创建订阅计划。虽然 Patreon 有多种导出数据的方法，但我们将重点介绍 CSV 方向。 可在此处找到此信息的帮助 [页](https://www.patreon.com/portal/how-to/export-pledge-data)   ，也可以按照以下说明操作：  
-
-1. 在 Patreon 站点左侧的创建者侧栏中找到"用户"字段。  
-2. 展开它以找到"关系管理器"并选择它。  
-3. 页面顶部是名为 CSV 的下载按钮。 选择该文件夹。  
-4. 它将弹出一个窗口对话框字段以保存文件。保存它。  
-5. 按照 AltspaceVR 组页中的导入说明使用此文件。  
-
-**Eventbrite ** 
-
-[Eventbrite](https://www.eventbrite.com)  是一个票证网站，允许用户管理和创建活动的票证。与 Patreon 一样，通过多种方式生成参与者电子邮件列表。我们将再次重点介绍 CSV 方向。 可在此处找到此信息的帮助 [页](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US)，也可以按照以下说明获取提取   此数据的一种方法。  
-
-1. 在"配置文件"菜单中，找到"管理事件"菜单。 
-2. 选择要获取参与者电子邮件列表的事件。 
-3. 在事件的仪表板中，找到名为"常见报表"的类别。 
-4. 还可以在左侧列菜单中的"分析 ->事件报告"下找到"常见报告"   
-5. 选择"参与者摘要"。 
-6. 找到"报告结果"部分。 
-7. 选择"CSV"按钮以下载文件。 
-
 > [!IMPORTANT]
-> 这是 beta 版本功能。 AltspaceVR 是一种免费体验，不负责体验中可能出现的任何技术问题，这些问题可能会阻止与会者访问票证事件。
+> 这是 beta 版本功能。 AltspaceVR 是一种免费体验，不负责体验中可能出现的任何技术问题，这些问题可能会阻止与会者访问私人活动。

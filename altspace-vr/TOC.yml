@@ -103,8 +103,8 @@
           items:
             - name: 世界构建工具包（Unity 上传程序）
               href: world-building/world-building-toolkit-getting-started.md
-            - name: 将内容更新到最新 Unity 版本
-              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: 升级旧的 Unity 项目
+              href: world-building/upgrading-old-unity-projects.md
             - name: 移动性能优化指南
               href: world-building/unity-mobile-performance-guide.md
             - name: 使用混合现实扩展
