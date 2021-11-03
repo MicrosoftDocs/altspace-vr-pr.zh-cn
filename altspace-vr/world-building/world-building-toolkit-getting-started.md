@@ -1,21 +1,20 @@
 ---
-title: Altspace 上传程序介绍
+title: Altspace 上传器介绍
 description: 了解如何通过 Altspace Uploader 使用 Unity 场景模板设置和上传 AltspaceVR 世界。
-ms.date: 09/29/2021
+ms.date: 10/29/2021
 ms.author: v-vtieto
 ms.topic: article
-keywords: toolkit、Altspace、uploader
-ms.openlocfilehash: 8d71551fe552159c0078105307802774f44c0d47
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 6d28b3efe75d589a0a09d4969add5d043a3116d0
+ms.sourcegitcommit: 20605c50a93852f93a3464c5c339f6a7da67a047
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298783"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "131278956"
 ---
-# <a name="introducing-the-altspace-uploader"></a>Altspace 上传程序介绍
+# <a name="introducing-the-altspace-uploader"></a>Altspace 上传器介绍
 
 > [!NOTE]
-> - 如果感兴趣，请加入官方 [AltspaceVR 即为用户](https://discordapp.com/invite/altspacevr) #world频道。  
+> - 如果感兴趣，请加入官方 [AltspaceVR 的"管理](https://discordapp.com/invite/altspacevr) "，并#world生成频道。  
 > - 如果尝试恢复旧空间，请参阅升级 [指南](upgrading-old-unity-projects.md)。 
 
 通过上传程序，可以使用 Unity 场景作为世界模板。 你可以引入一个适合其内部装饰的房屋，也可以从 我的世界。 如果可以将它导入 Unity，可以这样将其导入 Altspace。 下面是一些[示例 World。](https://account.altvr.com/worlds/1046572460192825569)
@@ -26,13 +25,13 @@ ms.locfileid: "130298783"
 
 1. 加入 [官方 AltspaceVR 中，](https://discordapp.com/invite/altspacevr) 访问#world频道。 朋友不会让朋友单独构建世界。
 2. 阅读 [我们的世界入门](world-building-getting-started.md) 指南了解基础知识
-3. [安装 Unity Hub](https://unity3d.com/get-unity/download)和 **Unity 2020.3.9。** 除非完全匹配此版本，否则上传程序将不起作用。 如果没有 Unity 帐户，则需要一个免费的 Unity 帐户。 在安装过程中，选择"个人 (，因为这样做是有趣的！) 并确保执行以下操作：
+3. [安装 Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta)并安装 [**2020.3.18f1。**](https://unity3d.com/unity/whats-new/2020.3.18) 除非完全匹配此版本，否则上传程序将不起作用。 如果没有 Unity 帐户，则需要一个免费的 Unity 帐户，并选择"个人"，因为这样做是有趣的！ 在安装过程中，请确保选中 **"Android 生成** "选项并禁用自动更新。
     * 包括 **Android 生成支持** 模块。
-    * 在Windows，包括 Mono (**的 Mac** 生成) 模块。
+    * 在Windows，包括 Mac 生成支持 **(Mono)** 模块。
     * 在 Mac 上，包括 **Mono Windows 生成 (支持)** 模块。
-4. [下载 AltspaceVR 上传程序](https://aka.ms/AvrUrpUploader)
+4. [下载最新的 Unity 上传程序](https://altvr.com/download-latest-unity-uploader)
 5. [在我们的网站上](https://account.altvr.com/space_templates/new) 创建模板。 将名称 **Hello World模板 。**
-6. [创建一个"世界](https://account.altvr.com/worlds/my)**"，并** Hello World。 选择 **Hello World模板** "作为模板。
+6. [创建一个 World，](https://account.altvr.com/worlds/my)并命名 **Hello World。** 选择 **Hello World模板** "作为模板。
 
 ![已创建世界屏幕](images/unity-uploader-img-02.png)
 
@@ -46,8 +45,8 @@ ms.locfileid: "130298783"
     ![选择 URP Unity 模板](images/001-unity-templates.png)
 
 1. 导航到将 Altspace Uploader 下载到的文件夹，然后将它从该文件夹复制或移动到新 Unity 项目的根文件夹。
-1. 在菜单栏上的 Unity 中，选择"**窗口**  >  **程序包管理器&quot; 。**
-1. 在程序包管理器栏中，选择加号下拉列表 (&quot;+") ，然后选择"**从 tarball 添加包"。**
+1. 在菜单栏上的 Unity 中，选择"**窗口**  >  **"程序包管理器。**
+1. 在程序包管理器栏中，选择加号下拉列表 ("+") ，然后选择"从 **tarball 添加包"。**
 1. 导航到包含 Altspace Uploader 的文件夹，选择"上传程序"，然后单击"打开 **"。**  加载包后 **，AltspaceVR** 将显示在菜单栏上：
 
     ![菜单栏上的 AltspaceVR](images/002-altspacevr-on-menu-bar.png)
@@ -55,10 +54,10 @@ ms.locfileid: "130298783"
 > [!NOTE]
 > 需要将 Altspace Uploader 包导入到要与 Altspace 一起使用的每一个 Unity 项目中。
 1. 在菜单栏上，选择 **"AltspaceVR >模板"。**
-1. 在 **"Altspace VR 模板** "对话框中，使用 Altspace 帐户凭据登录。  (MSA 登录名即将推出。 如果只是使用密码登录 Altspace Microsoft 帐户，则需要使用网站上"忘记了密码"选项创建密码。) 
+1. 在 **"Altspace VR 模板** "对话框中，使用 Altspace 帐户凭据登录。  (MSA 登录名即将推出。 如果只是用你的密码登录 Altspace Microsoft 帐户，则需要使用网站上"忘记了密码"选项创建密码。) 
 1. 单击"**选择模板"** 下拉列表，然后选择 **"Hello World模板"。**
-1. 选择场景：单击"选择 **.unity** 文件"省略号按钮 (三个点) ，导航到项目中的"资产场景"文件夹，然后选择  >  **"SampleScene.unity"** 并打开它。
-1. 在 **"平台生成"下**：，**确保Windows"** 。 目前，不应选择其他两个选项 **（Android****和****Mac）。** 希望用户访问后，应针对所有平台生成并上传。"
+1. 选择场景：单击"选择 **.unity** 文件"省略号按钮 (三个点) ，导航到项目中的"**资产** 场景"文件夹，然后选择  >  **"SampleScene.unity"** 并打开它。
+1. 在 **"平台生成："** 下，**确保Windows"** 。 目前，不应选择其他两个选项 **（Android****和****Mac）。** 希望用户访问后，应针对所有平台生成和上传。"
 1. 选择"**生成& Upload** 按钮。 此过程可能需要一两分钟。
 1. 启动 Altspace，然后选择"**主菜单"，** 然后在菜单栏上选择"**我的世界"。**
 1. 导航到 **Hello World，** 然后打开它。
@@ -80,12 +79,12 @@ ms.locfileid: "130298783"
 
 !["模板"面板打开，突出显示了上传](images/template-upload-list.png)
 
-* 更新时，你可以是"世界内"。 上传者说 **"Upload完成**"时，可以重置"世界"以查看更改。
+* 更新时，你可以是"世界内"。 上传者说 **"完成** Upload，可以重置"世界"以查看更改。
 * 使用简单的场景仅为电脑生成时，在 Altspace 中查看更改应该不到一分钟。
 * 将"世界"设置为"专用"和"未列出"，以避免干扰。
 * 将多维数据集放在原点，以便可以看到用户默认生成的位置。 上传时隐藏多维数据集。
 
-## <a name="troubleshooting"></a>故障排除
+## <a name="troubleshooting"></a>疑难解答
 
 **我崩溃或无法远程传送到任何内容** 需要向对象添加冲突，以将其传送至这些对象。
 
@@ -95,7 +94,7 @@ ms.locfileid: "130298783"
     * 你在正确的世界吗？ 你是否在"上传者"和"世界"窗体中选择了正确的模板？
     * 是否检查了"模板"页统计信息？
 
-**Upload失败或时间过长**
+**Upload失败或退出**
     * 最常见的上传错误由 Unity 版本错误导致。 必须与所需版本完全匹配。
     * 上传可能太大。 尝试将电脑场景< 100 MB。 从小规模开始，然后进行构建。 优化、优化、优化。
     * 尝试使用包含简单多维数据集的新项目。
